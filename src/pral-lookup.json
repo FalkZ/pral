@@ -1,196 +1,782 @@
-{
-  "Aal geräuchert": 10.35,
-  "Amaranth (Samen)": 7.5,
-  "Ananas": -3.45,
-  "Apfelessig": -2.17,
-  "Apfelsaft, ungesüsst": -2.03,
-  "Aprikosen": -5.15,
-  "Bananen": -7.46,
-  "Basilikum": -6.95,
-  "Bier, Pilsener Art": -0.04,
-  "Bier, dunkel": -0.23,
-  "Bier, hell": 0.2,
-  "Bierschinken": 7.48,
-  "Birnen": -2.21,
-  "Bitterschokolade": -11.45,
-  "Blumenkohl": -4.64,
-  "Bohnen, grün": -3.87,
-  "Broccoli": -4.64,
-  "Buchweizen (ganzes Korn)": 2.42,
-  "Butter": 0.49,
-  "Butterkäse (50% Fett i. Tr.)": 13.09,
-  "Buttermilch": -0.01,
-  "Camembert": 12.28,
-  "Cervelatwurst": 8.43,
-  "Cheddar, reduzierter Fettgehalt": 26.4,
-  "Chicorée": -3.15,
-  "Cola": 1.75,
-  "Corned beef, in Dosen": 11.21,
-  "Cornflakes": 2.63,
-  "Dinkel (Grünkern Vollkorn)": 7.5,
-  "Edamer": 18.51,
-  "Eiernudeln": 6.35,
-  "Eigelb": 23.48,
-  "Eis, Fruchteis, gemischt": -0.67,
-  "Eis, Milcheis, Vanille": 2.26,
-  "Eisbergsalat": -2.56,
-  "Eiweiss": 2.38,
-  "Emmentaler (45% Fett i. Tr.)": 21.54,
-  "Ente": 8.4,
-  "Erbsen": 1.69,
-  "Erdbeeren": -2.54,
-  "Erdnüsse, unbehandelt": 6.68,
-  "Espresso, Aufguss": -2.3,
-  "Essiggurken": -1.45,
-  "Feigen, getrocknet": -20.18,
-  "Feldsalat": -6.62,
-  "Fenchel": -9.77,
-  "Fleischwurst": 7,
-  "Forelle, gedämpft": 9.51,
-  "Frankfurter": 6.7,
-  "Frischkäse": 0.9,
-  "Fruchtjoghurt aus Vollmilch": 1.2,
-  "Früchtetee, Aufguss": -0.24,
-  "Frühstücksfleisch, in Dosen": 10.2,
-  "Gans (reines Muskelfleisch)": 5.89,
-  "Garnele": 18.2,
-  "Gemüsesaft (Tomate, Rote-Rübe, Möhre)": -3.6,
-  "Gerste (ganzes Korn)": 5.58,
-  "Gouda": 18.75,
-  "Grahambrot": 7.2,
-  "Grapefruit": -3.07,
-  "Grapefruitsaft, ungesüsst": -2.6,
-  "Grünkohl": -7.87,
-  "Grüntee, Aufguss": -0.45,
-  "Gurken": -2.3,
-  "Haferflocken (Vollkorn)": 8.98,
-  "Hartkäse, Durchschnitt von 4 Sorten": 19.2,
-  "Haselnüsse": -1.96,
-  "Heilbutt": 9.44,
-  "Hering": 9.18,
-  "Hirse (ganzes Korn)": 2.46,
-  "Honig": -0.39,
-  "Hühnerei": 9.96,
-  "Hühnerfleisch": 8.7,
-  "Hüttenkäse, Vollfettstufe": 8.43,
-  "Jagdwurst": 7.2,
-  "Kabeljaufillet": 7.6,
-  "Kaffee,  Aufguss, 5 Minuten": -1.4,
-  "Kakao, herg. aus entrahmter Milch (3,5%)": -0.4,
-  "Kalbfleisch": 9,
-  "Kaninchen": 19,
-  "Karotten, junge": -5.17,
-  "Karpfen": 8.72,
-  "Kartoffeln": -6.14,
-  "Kefir": 0.34,
-  "Kirschen": -3.71,
-  "Kiwi": -5.51,
-  "Knoblauch": -3.36,
-  "Kohlrabi": -6.79,
-  "Kondensmilch": 0.05,
-  "Kopfsalat, Durchschnitt von 4 Sorten": -3.78,
-  "Krabben": 8.88,
-  "Kräutertee": -0.24,
-  "Kuhmilch 1,5%": 0.39,
-  "Lachs": 10.01,
-  "Lammfleisch (mager)": 10.5,
-  "Lauch (Porree)": -3.85,
-  "Leber (Kalb)": 14.99,
-  "Leber (Rind)": 16.61,
-  "Leber (Schwein)": 15.7,
-  "Leberwurst": 9.09,
-  "Linsen, grün und braun, getrocknet": 4.81,
-  "Mais (ganzes Korn)": 3.24,
-  "Makkaroni": 6.89,
-  "Mandeln": 0.76,
-  "Mango": -3.4,
-  "Margarine": -0.15,
-  "Marmelade": -0.93,
-  "Matjeshering": 8,
-  "Miesmuscheln": 15.3,
-  "Milchschokolade": -1.3,
-  "Mineralwasser mit Kohlensäure": -0.76,
-  "Molke": -1.88,
-  "Möhrensaft": -4.8,
-  "Naturjoghurt aus Vollmilch": 0.05,
-  "Nussnugatcreme": -1.94,
-  "Olivenöl": 0.02,
-  "Orangen": -3.17,
-  "Orangensaft, ungesüsst": -2.77,
-  "Paprikaschoten (rot)": -7.76,
-  "Parmesan": 24.73,
-  "Petersilie": -15.5,
-  "Pfirsiche": -2.77,
-  "Pilze (Pfifferling)": -7.44,
-  "Pistazien": 0.26,
-  "Pumpernickel": 3.48,
-  "Quark": 8.86,
-  "Radieschen": -4.5,
-  "Reis, geschält": 3.82,
-  "Reis, geschält, gekocht": 3.07,
-  "Reis, ungeschält": 12.5,
-  "Rindfleisch, mager": 10.44,
-  "Roggenbrot": 3.48,
-  "Roggenknäckebrot": 3.3,
-  "Roggenmehl (Typ 650)": 3.52,
-  "Roggenmischbrot": 2.49,
-  "Roggenvollkornmehl": 5.9,
-  "Rohrzucker braun": -2.08,
-  "Rosenkohl": -4.59,
-  "Rosinen": -11.94,
-  "Rotbarsch": 9.08,
-  "Rote-Rübe-Saft": -3.9,
-  "Rotwein": -1.82,
-  "Ruccola": -7.5,
-  "Rumpsteak, mager und fett": 8.8,
-  "Sahne, frisch, sauer": 0.17,
-  "Salami": 8.77,
-  "Sandkuchen": 3.43,
-  "Sardinen in Öl": 13.5,
-  "Sauerkraut": -4.71,
-  "Schellfisch": 7.94,
-  "Schmelzkäse, natur": 23.48,
-  "Schnittlauch": -6.51,
-  "Schwarze Johannisbeeren": -6.14,
-  "Schweinefleisch, mager": 8.69,
-  "Seezunge": 8.47,
-  "Sellerie": -5.99,
-  "Shrimps": 7.6,
-  "Sojabohnen": -9.07,
-  "Sojamilch": -0.63,
-  "Sonnenblumenöl": -0.02,
-  "Spargel": -2.35,
-  "Spinat": -12.08,
-  "Spätzle": 6.89,
-  "Tafelwasser": -0.72,
-  "Tee, Indisch, Aufguss": -0.3,
-  "Tofu (Sojabohne, gedämpft)": -0.33,
-  "Tomaten": -4.17,
-  "Tomatensaft": -2.8,
-  "Traubensaft": -2.8,
-  "Truthahnfleisch": 11.13,
-  "Vollkornbrot": 5.3,
-  "Vollkornspaghetti": 8.5,
-  "Vollmilch, pasteurisiert und sterilisiert": 0.04,
-  "Walnüsse": 6.17,
-  "Wassermelonen": -2.84,
-  "Weichkäse, Vollfettstufe": 4.3,
-  "Weinessig, Balsamico-Essig": -1.26,
-  "Weintrauben": -3.38,
-  "Weissbrot": 3.75,
-  "Weisswein, trocken": -1.73,
-  "Weizenbrot  (Vollkorn)": 5.25,
-  "Weizenmehl  (Typ 450)": 4.98,
-  "Weizenmischbrot": 3.75,
-  "Weizenvollkornmehl": 8.2,
-  "Wienerwürstchen": 6.03,
-  "Wildkaninchen": 10.15,
-  "Zander": 7.33,
-  "Zitronen": -3.05,
-  "Zitronensaft": -2.2,
-  "Zucchini": -3.88,
-  "Zucker, weiss": -0.06,
-  "Zwieback": 4.69,
-  "Zwiebeln": -1.74,
-  "Äpfel": -2.36
-}
+[
+  {
+    "label": "Aal geräuchert",
+    "pral": 10.35
+  },
+  {
+    "label": "Amaranth (Samen)",
+    "pral": 7.5
+  },
+  {
+    "label": "Ananas",
+    "pral": -3.45
+  },
+  {
+    "label": "Apfelessig",
+    "pral": -2.17
+  },
+  {
+    "label": "Apfelsaft, ungesüsst",
+    "pral": -2.03
+  },
+  {
+    "label": "Aprikosen",
+    "pral": -5.15
+  },
+  {
+    "label": "Bananen",
+    "pral": -7.46
+  },
+  {
+    "label": "Basilikum",
+    "pral": -6.95
+  },
+  {
+    "label": "Bier, Pilsener Art",
+    "pral": -0.04
+  },
+  {
+    "label": "Bier, dunkel",
+    "pral": -0.23
+  },
+  {
+    "label": "Bier, hell",
+    "pral": 0.2
+  },
+  {
+    "label": "Bierschinken",
+    "pral": 7.48
+  },
+  {
+    "label": "Birnen",
+    "pral": -2.21
+  },
+  {
+    "label": "Bitterschokolade",
+    "pral": -11.45
+  },
+  {
+    "label": "Blumenkohl",
+    "pral": -4.64
+  },
+  {
+    "label": "Bohnen, grün",
+    "pral": -3.87
+  },
+  {
+    "label": "Broccoli",
+    "pral": -4.64
+  },
+  {
+    "label": "Buchweizen (ganzes Korn)",
+    "pral": 2.42
+  },
+  {
+    "label": "Butter",
+    "pral": 0.49
+  },
+  {
+    "label": "Butterkäse (50% Fett i. Tr.)",
+    "pral": 13.09
+  },
+  {
+    "label": "Buttermilch",
+    "pral": -0.01
+  },
+  {
+    "label": "Camembert",
+    "pral": 12.28
+  },
+  {
+    "label": "Cervelatwurst",
+    "pral": 8.43
+  },
+  {
+    "label": "Cheddar, reduzierter Fettgehalt",
+    "pral": 26.4
+  },
+  {
+    "label": "Chicorée",
+    "pral": -3.15
+  },
+  {
+    "label": "Cola",
+    "pral": 1.75
+  },
+  {
+    "label": "Corned beef, in Dosen",
+    "pral": 11.21
+  },
+  {
+    "label": "Cornflakes",
+    "pral": 2.63
+  },
+  {
+    "label": "Dinkel (Grünkern Vollkorn)",
+    "pral": 7.5
+  },
+  {
+    "label": "Edamer",
+    "pral": 18.51
+  },
+  {
+    "label": "Eiernudeln",
+    "pral": 6.35
+  },
+  {
+    "label": "Eigelb",
+    "pral": 23.48
+  },
+  {
+    "label": "Eis, Fruchteis, gemischt",
+    "pral": -0.67
+  },
+  {
+    "label": "Eis, Milcheis, Vanille",
+    "pral": 2.26
+  },
+  {
+    "label": "Eisbergsalat",
+    "pral": -2.56
+  },
+  {
+    "label": "Eiweiss",
+    "pral": 2.38
+  },
+  {
+    "label": "Emmentaler (45% Fett i. Tr.)",
+    "pral": 21.54
+  },
+  {
+    "label": "Ente",
+    "pral": 8.4
+  },
+  {
+    "label": "Erbsen",
+    "pral": 1.69
+  },
+  {
+    "label": "Erdbeeren",
+    "pral": -2.54
+  },
+  {
+    "label": "Erdnüsse, unbehandelt",
+    "pral": 6.68
+  },
+  {
+    "label": "Espresso, Aufguss",
+    "pral": -2.3
+  },
+  {
+    "label": "Essiggurken",
+    "pral": -1.45
+  },
+  {
+    "label": "Feigen, getrocknet",
+    "pral": -20.18
+  },
+  {
+    "label": "Feldsalat",
+    "pral": -6.62
+  },
+  {
+    "label": "Fenchel",
+    "pral": -9.77
+  },
+  {
+    "label": "Fleischwurst",
+    "pral": 7
+  },
+  {
+    "label": "Forelle, gedämpft",
+    "pral": 9.51
+  },
+  {
+    "label": "Frankfurter",
+    "pral": 6.7
+  },
+  {
+    "label": "Frischkäse",
+    "pral": 0.9
+  },
+  {
+    "label": "Fruchtjoghurt aus Vollmilch",
+    "pral": 1.2
+  },
+  {
+    "label": "Früchtetee, Aufguss",
+    "pral": -0.24
+  },
+  {
+    "label": "Frühstücksfleisch, in Dosen",
+    "pral": 10.2
+  },
+  {
+    "label": "Gans (reines Muskelfleisch)",
+    "pral": 5.89
+  },
+  {
+    "label": "Garnele",
+    "pral": 18.2
+  },
+  {
+    "label": "Gemüsesaft (Tomate, Rote-Rübe, Möhre)",
+    "pral": -3.6
+  },
+  {
+    "label": "Gerste (ganzes Korn)",
+    "pral": 5.58
+  },
+  {
+    "label": "Gouda",
+    "pral": 18.75
+  },
+  {
+    "label": "Grahambrot",
+    "pral": 7.2
+  },
+  {
+    "label": "Grapefruit",
+    "pral": -3.07
+  },
+  {
+    "label": "Grapefruitsaft, ungesüsst",
+    "pral": -2.6
+  },
+  {
+    "label": "Grünkohl",
+    "pral": -7.87
+  },
+  {
+    "label": "Grüntee, Aufguss",
+    "pral": -0.45
+  },
+  {
+    "label": "Gurken",
+    "pral": -2.3
+  },
+  {
+    "label": "Haferflocken (Vollkorn)",
+    "pral": 8.98
+  },
+  {
+    "label": "Hartkäse, Durchschnitt von 4 Sorten",
+    "pral": 19.2
+  },
+  {
+    "label": "Haselnüsse",
+    "pral": -1.96
+  },
+  {
+    "label": "Heilbutt",
+    "pral": 9.44
+  },
+  {
+    "label": "Hering",
+    "pral": 9.18
+  },
+  {
+    "label": "Hirse (ganzes Korn)",
+    "pral": 2.46
+  },
+  {
+    "label": "Honig",
+    "pral": -0.39
+  },
+  {
+    "label": "Hühnerei",
+    "pral": 9.96
+  },
+  {
+    "label": "Hühnerfleisch",
+    "pral": 8.7
+  },
+  {
+    "label": "Hüttenkäse, Vollfettstufe",
+    "pral": 8.43
+  },
+  {
+    "label": "Jagdwurst",
+    "pral": 7.2
+  },
+  {
+    "label": "Kabeljaufillet",
+    "pral": 7.6
+  },
+  {
+    "label": "Kaffee,  Aufguss, 5 Minuten",
+    "pral": -1.4
+  },
+  {
+    "label": "Kakao, herg. aus entrahmter Milch (3,5%)",
+    "pral": -0.4
+  },
+  {
+    "label": "Kalbfleisch",
+    "pral": 9
+  },
+  {
+    "label": "Kalbfleisch",
+    "pral": 9
+  },
+  {
+    "label": "Kaninchen",
+    "pral": 19
+  },
+  {
+    "label": "Karotten, junge",
+    "pral": -5.17
+  },
+  {
+    "label": "Karpfen",
+    "pral": 8.72
+  },
+  {
+    "label": "Kartoffeln",
+    "pral": -6.14
+  },
+  {
+    "label": "Kefir",
+    "pral": 0.34
+  },
+  {
+    "label": "Kirschen",
+    "pral": -3.71
+  },
+  {
+    "label": "Kiwi",
+    "pral": -5.51
+  },
+  {
+    "label": "Knoblauch",
+    "pral": -3.36
+  },
+  {
+    "label": "Kohlrabi",
+    "pral": -6.79
+  },
+  {
+    "label": "Kondensmilch",
+    "pral": 0.05
+  },
+  {
+    "label": "Kopfsalat, Durchschnitt von 4 Sorten",
+    "pral": -3.78
+  },
+  {
+    "label": "Krabben",
+    "pral": 8.88
+  },
+  {
+    "label": "Kräutertee",
+    "pral": -0.24
+  },
+  {
+    "label": "Kuhmilch 1,5%",
+    "pral": 0.39
+  },
+  {
+    "label": "Lachs",
+    "pral": 10.01
+  },
+  {
+    "label": "Lammfleisch (mager)",
+    "pral": 10.5
+  },
+  {
+    "label": "Lauch (Porree)",
+    "pral": -3.85
+  },
+  {
+    "label": "Leber (Kalb)",
+    "pral": 14.99
+  },
+  {
+    "label": "Leber (Rind)",
+    "pral": 16.61
+  },
+  {
+    "label": "Leber (Schwein)",
+    "pral": 15.7
+  },
+  {
+    "label": "Leberwurst",
+    "pral": 9.09
+  },
+  {
+    "label": "Linsen, grün und braun, getrocknet",
+    "pral": 4.81
+  },
+  {
+    "label": "Mais (ganzes Korn)",
+    "pral": 3.24
+  },
+  {
+    "label": "Makkaroni",
+    "pral": 6.89
+  },
+  {
+    "label": "Mandeln",
+    "pral": 0.76
+  },
+  {
+    "label": "Mango",
+    "pral": -3.4
+  },
+  {
+    "label": "Margarine",
+    "pral": -0.15
+  },
+  {
+    "label": "Marmelade",
+    "pral": -0.93
+  },
+  {
+    "label": "Matjeshering",
+    "pral": 8
+  },
+  {
+    "label": "Miesmuscheln",
+    "pral": 15.3
+  },
+  {
+    "label": "Milchschokolade",
+    "pral": -1.3
+  },
+  {
+    "label": "Mineralwasser mit Kohlensäure",
+    "pral": -0.76
+  },
+  {
+    "label": "Molke",
+    "pral": -1.88
+  },
+  {
+    "label": "Möhrensaft",
+    "pral": -4.8
+  },
+  {
+    "label": "Naturjoghurt aus Vollmilch",
+    "pral": 0.05
+  },
+  {
+    "label": "Nussnugatcreme",
+    "pral": -1.94
+  },
+  {
+    "label": "Olivenöl",
+    "pral": 0.02
+  },
+  {
+    "label": "Orangen",
+    "pral": -3.17
+  },
+  {
+    "label": "Orangensaft, ungesüsst",
+    "pral": -2.77
+  },
+  {
+    "label": "Paprikaschoten (rot)",
+    "pral": -7.76
+  },
+  {
+    "label": "Parmesan",
+    "pral": 24.73
+  },
+  {
+    "label": "Petersilie",
+    "pral": -15.5
+  },
+  {
+    "label": "Pfirsiche",
+    "pral": -2.77
+  },
+  {
+    "label": "Pilze (Pfifferling)",
+    "pral": -7.44
+  },
+  {
+    "label": "Pistazien",
+    "pral": 0.26
+  },
+  {
+    "label": "Pumpernickel",
+    "pral": 3.48
+  },
+  {
+    "label": "Quark",
+    "pral": 8.86
+  },
+  {
+    "label": "Radieschen",
+    "pral": -4.5
+  },
+  {
+    "label": "Reis, geschält",
+    "pral": 3.82
+  },
+  {
+    "label": "Reis, geschält, gekocht",
+    "pral": 3.07
+  },
+  {
+    "label": "Reis, ungeschält",
+    "pral": 12.5
+  },
+  {
+    "label": "Rindfleisch, mager",
+    "pral": 10.44
+  },
+  {
+    "label": "Roggenbrot",
+    "pral": 3.48
+  },
+  {
+    "label": "Roggenknäckebrot",
+    "pral": 3.3
+  },
+  {
+    "label": "Roggenmehl (Typ 650)",
+    "pral": 3.52
+  },
+  {
+    "label": "Roggenmischbrot",
+    "pral": 2.49
+  },
+  {
+    "label": "Roggenvollkornmehl",
+    "pral": 5.9
+  },
+  {
+    "label": "Rohrzucker braun",
+    "pral": -2.08
+  },
+  {
+    "label": "Rosenkohl",
+    "pral": -4.59
+  },
+  {
+    "label": "Rosinen",
+    "pral": -11.94
+  },
+  {
+    "label": "Rotbarsch",
+    "pral": 9.08
+  },
+  {
+    "label": "Rote-Rübe-Saft",
+    "pral": -3.9
+  },
+  {
+    "label": "Rotwein",
+    "pral": -1.82
+  },
+  {
+    "label": "Ruccola",
+    "pral": -7.5
+  },
+  {
+    "label": "Rumpsteak, mager und fett",
+    "pral": 8.8
+  },
+  {
+    "label": "Sahne, frisch, sauer",
+    "pral": 0.17
+  },
+  {
+    "label": "Salami",
+    "pral": 8.77
+  },
+  {
+    "label": "Sandkuchen",
+    "pral": 3.43
+  },
+  {
+    "label": "Sardinen in Öl",
+    "pral": 13.5
+  },
+  {
+    "label": "Sauerkraut",
+    "pral": -4.71
+  },
+  {
+    "label": "Schellfisch",
+    "pral": 7.94
+  },
+  {
+    "label": "Schmelzkäse, natur",
+    "pral": 23.48
+  },
+  {
+    "label": "Schnittlauch",
+    "pral": -6.51
+  },
+  {
+    "label": "Schwarze Johannisbeeren",
+    "pral": -6.14
+  },
+  {
+    "label": "Schweinefleisch, mager",
+    "pral": 8.69
+  },
+  {
+    "label": "Seezunge",
+    "pral": 8.47
+  },
+  {
+    "label": "Sellerie",
+    "pral": -5.99
+  },
+  {
+    "label": "Shrimps",
+    "pral": 7.6
+  },
+  {
+    "label": "Sojabohnen",
+    "pral": -9.07
+  },
+  {
+    "label": "Sojamilch",
+    "pral": -0.63
+  },
+  {
+    "label": "Sonnenblumenöl",
+    "pral": -0.02
+  },
+  {
+    "label": "Spargel",
+    "pral": -2.35
+  },
+  {
+    "label": "Spinat",
+    "pral": -12.08
+  },
+  {
+    "label": "Spätzle",
+    "pral": 6.89
+  },
+  {
+    "label": "Tafelwasser",
+    "pral": -0.72
+  },
+  {
+    "label": "Tee, Indisch, Aufguss",
+    "pral": -0.3
+  },
+  {
+    "label": "Tofu (Sojabohne, gedämpft)",
+    "pral": -0.33
+  },
+  {
+    "label": "Tomaten",
+    "pral": -4.17
+  },
+  {
+    "label": "Tomatensaft",
+    "pral": -2.8
+  },
+  {
+    "label": "Traubensaft",
+    "pral": -2.8
+  },
+  {
+    "label": "Truthahnfleisch",
+    "pral": 11.13
+  },
+  {
+    "label": "Vollkornbrot",
+    "pral": 5.3
+  },
+  {
+    "label": "Vollkornspaghetti",
+    "pral": 8.5
+  },
+  {
+    "label": "Vollmilch, pasteurisiert und sterilisiert",
+    "pral": 0.04
+  },
+  {
+    "label": "Walnüsse",
+    "pral": 6.17
+  },
+  {
+    "label": "Wassermelonen",
+    "pral": -2.84
+  },
+  {
+    "label": "Weichkäse, Vollfettstufe",
+    "pral": 4.3
+  },
+  {
+    "label": "Weinessig, Balsamico-Essig",
+    "pral": -1.26
+  },
+  {
+    "label": "Weintrauben",
+    "pral": -3.38
+  },
+  {
+    "label": "Weissbrot",
+    "pral": 3.75
+  },
+  {
+    "label": "Weisswein, trocken",
+    "pral": -1.73
+  },
+  {
+    "label": "Weizenbrot  (Vollkorn)",
+    "pral": 5.25
+  },
+  {
+    "label": "Weizenmehl  (Typ 450)",
+    "pral": 4.98
+  },
+  {
+    "label": "Weizenmischbrot",
+    "pral": 3.75
+  },
+  {
+    "label": "Weizenvollkornmehl",
+    "pral": 8.2
+  },
+  {
+    "label": "Wienerwürstchen",
+    "pral": 6.03
+  },
+  {
+    "label": "Wildkaninchen",
+    "pral": 10.15
+  },
+  {
+    "label": "Zander",
+    "pral": 7.33
+  },
+  {
+    "label": "Zitronen",
+    "pral": -3.05
+  },
+  {
+    "label": "Zitronensaft",
+    "pral": -2.2
+  },
+  {
+    "label": "Zucchini",
+    "pral": -3.88
+  },
+  {
+    "label": "Zucker, weiss",
+    "pral": -0.06
+  },
+  {
+    "label": "Zwieback",
+    "pral": 4.69
+  },
+  {
+    "label": "Zwiebeln",
+    "pral": -1.74
+  },
+  {
+    "label": "Äpfel",
+    "pral": -2.36
+  }
+]

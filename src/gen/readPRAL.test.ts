@@ -246,18 +246,13 @@ const labels = [
   "Äpfel",
 ];
 
-const labels0 = ["Zwiebeln", "Äpfel"];
-
 test("readPRAL", async () => {
   const results = [];
 
   for (const label of labels) {
     const pral = await getPRALByName(label).catch(() => null);
-    results.push([label, pral]);
+    results.push({ label, pral });
   }
 
-  writeFileSync(
-    "src/pral-lookup.json",
-    JSON.stringify(Object.fromEntries(results))
-  );
+  writeFileSync("src/pral-lookup.json", JSON.stringify(results, null, 2));
 });
