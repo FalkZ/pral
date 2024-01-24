@@ -33,7 +33,7 @@
 </script>
 
 <div
-  class="flex flex-row items-center place-content-between text-lg py-1 px-4 even:bg-slate-700/20"
+  class="flex flex-row items-center place-content-between text-lg tracking-wide py-1 px-4 even:bg-slate-700/20"
 >
   <div>{item.label}</div>
 

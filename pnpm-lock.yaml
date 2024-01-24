@@ -5,6 +5,9 @@ settings:
   excludeLinksFromLockfile: false
 
 dependencies:
+  '@fontsource/inter':
+    specifier: ^5.0.16
+    version: 5.0.16
   '@tabler/icons-svelte':
     specifier: ^2.46.0
     version: 2.46.0(svelte@4.2.9)
@@ -270,6 +273,10 @@ packages:
     requiresBuild: true
     dev: true
     optional: true
+
+  /@fontsource/inter@5.0.16:
+    resolution: {integrity: sha512-qF0aH5UiZvCmneX5orJbVRoc2VTyLTV3X/7laMp03Qt28L+B9tFlZODOGUL64wDWc69YVdi1LeJB0cIgd51lvw==}
+    dev: false
 
   /@isaacs/cliui@8.0.2:
     resolution: {integrity: sha512-O8jcjabXaleOG9DQ0+ARXWZBTfnP4WNAqzuiJK7ll44AmxGKv/J2M4TPjxjY3znBCfvBXFzucm1twdyFybFqEA==}

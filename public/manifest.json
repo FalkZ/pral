@@ -1,0 +1,16 @@
+{
+  "short_name": "PRAL",
+  "name": "PRAL-Werte",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "type": "image/png",
+      "sizes": "203x203"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "background_color": "#0f172a",
+  "display": "standalone",
+  "theme_color": "#0f172a"
+}
