@@ -1,0 +1,1727 @@
+[
+  {
+    "label": "Parsley, freeze-dried",
+    "source": "usda",
+    "pral": -108.647
+  },
+  {
+    "label": "spices, coriander leaf, dried",
+    "source": "usda",
+    "pral": -99.4853
+  },
+  {
+    "label": "spices, chervil, dried",
+    "source": "usda",
+    "pral": -92.4
+  },
+  {
+    "label": "spices, basil, dried",
+    "source": "usda",
+    "pral": -85.3627
+  },
+  {
+    "label": "Celery flakes, dried",
+    "source": "usda",
+    "pral": -84.464
+  },
+  {
+    "label": "spices, parsley, dried",
+    "source": "usda",
+    "pral": -81.4902
+  },
+  {
+    "label": "Radishes, oriental, dried",
+    "source": "usda",
+    "pral": -74.552
+  },
+  {
+    "label": "spices, dill weed, dried",
+    "source": "usda",
+    "pral": -74.5146
+  },
+  {
+    "label": "spices, tarragon, dried",
+    "source": "usda",
+    "pral": -64.5107
+  },
+  {
+    "label": "Chives, freeze-dried",
+    "source": "usda",
+    "pral": -59.815
+  },
+  {
+    "label": "Tomatoes,un-dried",
+    "source": "usda",
+    "pral": -58.3551
+  },
+  {
+    "label": "Spearmint, dried",
+    "source": "usda",
+    "pral": -55.4223
+  },
+  {
+    "label": "Peppers,sweet, green, freeze-dried",
+    "source": "usda",
+    "pral": -52.33
+  },
+  {
+    "label": "Peppers,sweet, red, freeze-dried",
+    "source": "usda",
+    "pral": -52.33
+  },
+  {
+    "label": "spices, oregano, dried",
+    "source": "usda",
+    "pral": -49.767
+  },
+  {
+    "label": "spices, marjoram, dried",
+    "source": "usda",
+    "pral": -49.3026
+  },
+  {
+    "label": "seaweed, agar, dried",
+    "source": "usda",
+    "pral": -46.8031
+  },
+  {
+    "label": "spices, turmeric, ground",
+    "source": "usda",
+    "pral": -46.6693
+  },
+  {
+    "label": "spices,age, ground",
+    "source": "usda",
+    "pral": -46.4983
+  },
+  {
+    "label": "Leeks, (bulb and lower-leaf portion), freeze-dried",
+    "source": "usda",
+    "pral": -39.016
+  },
+  {
+    "label": "Molasses",
+    "source": "usda",
+    "pral": -38.554
+  },
+  {
+    "label": "spices, rosemary, dried",
+    "source": "usda",
+    "pral": -37.4338
+  },
+  {
+    "label": "spices, paprika",
+    "source": "usda",
+    "pral": -36.3376
+  },
+  {
+    "label": "spices, thyme, dried",
+    "source": "usda",
+    "pral": -35.4831
+  },
+  {
+    "label": "Peppers, pasilla, dried",
+    "source": "usda",
+    "pral": -35.3725
+  },
+  {
+    "label": "spices, fennel seed",
+    "source": "usda",
+    "pral": -35.371
+  },
+  {
+    "label": "spices, celery seed",
+    "source": "usda",
+    "pral": -34.7177
+  },
+  {
+    "label": "spices, dill seed",
+    "source": "usda",
+    "pral": -33.1908
+  },
+  {
+    "label": "Apricots, dehydrated (low-moisture),sulphured, uncooked",
+    "source": "usda",
+    "pral": -33.071
+  },
+  {
+    "label": "spices, cumin seed",
+    "source": "usda",
+    "pral": -31.9771
+  },
+  {
+    "label": "spices, cloves, ground",
+    "source": "usda",
+    "pral": -31.5888
+  },
+  {
+    "label": "Bananas, dehydrated, or banana",
+    "source": "usda",
+    "pral": -29.7609
+  },
+  {
+    "label": "spices, pepper, black",
+    "source": "usda",
+    "pral": -25.3975
+  },
+  {
+    "label": "spices, ginger, ground",
+    "source": "usda",
+    "pral": -24.5502
+  },
+  {
+    "label": "spices, cinnamon, ground",
+    "source": "usda",
+    "pral": -23.7569
+  },
+  {
+    "label": "spices, coriander seed",
+    "source": "usda",
+    "pral": -23.2097
+  },
+  {
+    "label": "Shallots, freeze-dried",
+    "source": "usda",
+    "pral": -22.754
+  },
+  {
+    "label": "spices, cardamom",
+    "source": "usda",
+    "pral": -22.5736
+  },
+  {
+    "label": "Mushrooms, shiitake, dried",
+    "source": "usda",
+    "pral": -20.2168
+  },
+  {
+    "label": "Beet greens, cooked, boiled, drained, without salt",
+    "source": "usda",
+    "pral": -19.5627
+  },
+  {
+    "label": "Lima beans, large, mature seeds, raw",
+    "source": "usda",
+    "pral": -18.3206
+  },
+  {
+    "label": "spices, aniseed",
+    "source": "usda",
+    "pral": -18.175
+  },
+  {
+    "label": "Carob flour",
+    "source": "usda",
+    "pral": -18.1082
+  },
+  {
+    "label": "Tomato, canned, paste, with salt added",
+    "source": "usda",
+    "pral": -17.6662
+  },
+  {
+    "label": "Tomato, canned, paste, without salt added",
+    "source": "usda",
+    "pral": -17.6662
+  },
+  {
+    "label": "spices, bay leaf",
+    "source": "usda",
+    "pral": -17.1611
+  },
+  {
+    "label": "Beet greens, raw",
+    "source": "usda",
+    "pral": -16.748
+  },
+  {
+    "label": "Epazote, raw",
+    "source": "usda",
+    "pral": -16.6703
+  },
+  {
+    "label": "Rosemary, fresh",
+    "source": "usda",
+    "pral": -16.4511
+  },
+  {
+    "label": "Litchis, dried",
+    "source": "usda",
+    "pral": -16.272
+  },
+  {
+    "label": "Peaches, dried,sulfured, uncooked",
+    "source": "usda",
+    "pral": -16.2001
+  },
+  {
+    "label": "Nuts, chestnuts, European, dried, peeled",
+    "source": "usda",
+    "pral": -16.0431
+  },
+  {
+    "label": "Thyme, fresh",
+    "source": "usda",
+    "pral": -15.5676
+  },
+  {
+    "label": "Dill weed, fresh",
+    "source": "usda",
+    "pral": -15.4946
+  },
+  {
+    "label": "Yam, raw",
+    "source": "usda",
+    "pral": -15.1183
+  },
+  {
+    "label": "Beans, French, mature seeds, raw",
+    "source": "usda",
+    "pral": -14.4771
+  },
+  {
+    "label": "Raisins, seeded",
+    "source": "usda",
+    "pral": -14.4592
+  },
+  {
+    "label": "seeds, pumpkin and squash seeds, whole, roasted, with salt added",
+    "source": "usda",
+    "pral": -14.3325
+  },
+  {
+    "label": "seeds, pumpkin and squash seeds, whole, roasted, without salt",
+    "source": "usda",
+    "pral": -14.3325
+  },
+  {
+    "label": "Persimmons, Japanese, dried",
+    "source": "usda",
+    "pral": -14.2998
+  },
+  {
+    "label": "Currants, santé, dried",
+    "source": "usda",
+    "pral": -14.2918
+  },
+  {
+    "label": "Figs, dried, uncooked",
+    "source": "usda",
+    "pral": -14.058
+  },
+  {
+    "label": "Amaranth leaves, raw",
+    "source": "usda",
+    "pral": -14.0006
+  },
+  {
+    "label": "Nuts, chestnuts, European, dried, unpeeled",
+    "source": "usda",
+    "pral": -13.8949
+  },
+  {
+    "label": "Dates, medjool",
+    "source": "usda",
+    "pral": -13.6711
+  },
+  {
+    "label": "Beans, black, mature seeds, raw",
+    "source": "usda",
+    "pral": -13.58
+  },
+  {
+    "label": "Lemon grass (citronella), raw",
+    "source": "usda",
+    "pral": -12.9592
+  },
+  {
+    "label": "Peppermint, fresh",
+    "source": "usda",
+    "pral": -12.6495
+  },
+  {
+    "label": "Taro, tahitian, raw",
+    "source": "usda",
+    "pral": -12.5929
+  },
+  {
+    "label": "Beans, small white, mature seeds, raw",
+    "source": "usda",
+    "pral": -12.5801
+  },
+  {
+    "label": "Nuts, pine nuts, pinyon, dried",
+    "source": "usda",
+    "pral": -12.4117
+  },
+  {
+    "label": "Chard, swiss, cooked, boiled, drained, without salt",
+    "source": "usda",
+    "pral": -12.3768
+  },
+  {
+    "label": "Nuts, chestnuts, european, boiled and teamed",
+    "source": "usda",
+    "pral": -12.374
+  },
+  {
+    "label": "Tofu, salted and fermented (fuyu), prepared with calciumulfate",
+    "source": "usda",
+    "pral": -12.3655
+  },
+  {
+    "label": "Dates, deglet noor",
+    "source": "usda",
+    "pral": -11.9065
+  },
+  {
+    "label": "spinach, raw",
+    "source": "usda",
+    "pral": -11.8446
+  },
+  {
+    "label": "Apples, dehydrated (low moisture),sulfured, uncooked",
+    "source": "usda",
+    "pral": -11.5772
+  },
+  {
+    "label": "Beans, pink, mature seeds, raw",
+    "source": "usda",
+    "pral": -11.5406
+  },
+  {
+    "label": "Parsley, raw",
+    "source": "usda",
+    "pral": -11.1267
+  },
+  {
+    "label": "Beans, kidney, California red, mature seeds, raw",
+    "source": "usda",
+    "pral": -11.0587
+  },
+  {
+    "label": "Beans, black turtle soup, mature seeds, raw",
+    "source": "usda",
+    "pral": -11.0475
+  },
+  {
+    "label": "Cowpeas, catjang, mature seeds, raw",
+    "source": "usda",
+    "pral": -10.7455
+  },
+  {
+    "label": "Kale,cotch, raw",
+    "source": "usda",
+    "pral": -10.737
+  },
+  {
+    "label": "Purslane, raw",
+    "source": "usda",
+    "pral": -10.722
+  },
+  {
+    "label": "Mustard spinach, (tendergreen), raw",
+    "source": "usda",
+    "pral": -10.331
+  },
+  {
+    "label": "spinach, cooked, boiled, drained, without salt",
+    "source": "usda",
+    "pral": -10.2887
+  },
+  {
+    "label": "snacks, banana chips",
+    "source": "usda",
+    "pral": -10.267
+  },
+  {
+    "label": "Nuts, chestnuts, chinese, dried",
+    "source": "usda",
+    "pral": -10.1082
+  },
+  {
+    "label": "Wasabi, root, raw",
+    "source": "usda",
+    "pral": -10.074
+  },
+  {
+    "label": "Borage, cooked, boiled, drained, without salt",
+    "source": "usda",
+    "pral": -10.0599
+  },
+  {
+    "label": "Basil, fresh",
+    "source": "usda",
+    "pral": -10.0124
+  },
+  {
+    "label": "Spearmint, fresh",
+    "source": "usda",
+    "pral": -10.0109
+  },
+  {
+    "label": "Taro, raw",
+    "source": "usda",
+    "pral": -9.985
+  },
+  {
+    "label": "Water chestnuts, Chinese, (matai), raw",
+    "source": "usda",
+    "pral": -9.962
+  },
+  {
+    "label": "Nuts, acorns, dried",
+    "source": "usda",
+    "pral": -9.943
+  },
+  {
+    "label": "Bamboo shoots, cooked, boiled, drained, without salt",
+    "source": "usda",
+    "pral": -9.9373
+  },
+  {
+    "label": "Coriander (cilantro) leaves, raw",
+    "source": "usda",
+    "pral": -9.6683
+  },
+  {
+    "label": "Beans, pinto, mature seeds, raw",
+    "source": "usda",
+    "pral": -9.5952
+  },
+  {
+    "label": "Borage, raw",
+    "source": "usda",
+    "pral": -9.588
+  },
+  {
+    "label": "Plantains, raw",
+    "source": "usda",
+    "pral": -9.585
+  },
+  {
+    "label": "Hyacinth beans, mature seeds, raw",
+    "source": "usda",
+    "pral": -9.508
+  },
+  {
+    "label": "Pears, dried,sulfured, uncooked",
+    "source": "usda",
+    "pral": -9.3937
+  },
+  {
+    "label": "Plantains, cooked",
+    "source": "usda",
+    "pral": -9.1999
+  },
+  {
+    "label": "Cowpeas, leafy tips, raw",
+    "source": "usda",
+    "pral": -9.15
+  },
+  {
+    "label": "Beans, great northern, mature seeds, raw",
+    "source": "usda",
+    "pral": -9.0656
+  },
+  {
+    "label": "Beans, pinto, immature seeds, frozen, unprepared",
+    "source": "usda",
+    "pral": -9.059
+  },
+  {
+    "label": "Peaches, dehydrated (low-moisture),sulfured,sulfured",
+    "source": "usda",
+    "pral": -9.0131
+  },
+  {
+    "label": "Taro leaves, cooked, steamed, without salt",
+    "source": "usda",
+    "pral": -8.9662
+  },
+  {
+    "label": "Grapefruit juice, white, frozen concentrate, un-sweetened, undiluted",
+    "source": "usda",
+    "pral": -8.7247
+  },
+  {
+    "label": "squash, winter, all varieties, cooked, baked, without salt",
+    "source": "usda",
+    "pral": -8.6619
+  },
+  {
+    "label": "Potatoes, Russet, flesh and skin, baked",
+    "source": "usda",
+    "pral": -8.6483
+  },
+  {
+    "label": "Beans, cranberry (roman), mature seeds, raw",
+    "source": "usda",
+    "pral": -8.6303
+  },
+  {
+    "label": "Avocados, raw, California",
+    "source": "usda",
+    "pral": -8.6116
+  },
+  {
+    "label": "Cowpeas (black eyes), immature seeds, raw",
+    "source": "usda",
+    "pral": -8.6085
+  },
+  {
+    "label": "sweet potato leaves, cooked, steamed, without salt",
+    "source": "usda",
+    "pral": -8.5582
+  },
+  {
+    "label": "Beans, kidney, all types, mature seeds, raw",
+    "source": "usda",
+    "pral": -8.4118
+  },
+  {
+    "label": "Horseradish-tree, pods, raw",
+    "source": "usda",
+    "pral": -8.362
+  },
+  {
+    "label": "Kale, raw",
+    "source": "usda",
+    "pral": -8.337
+  },
+  {
+    "label": "Chicory greens, raw",
+    "source": "usda",
+    "pral": -8.328
+  },
+  {
+    "label": "sweet potato, cooked, baked in skin, without salt",
+    "source": "usda",
+    "pral": -8.1881
+  },
+  {
+    "label": "Apples, dried,sulfured, uncooked",
+    "source": "usda",
+    "pral": -8.1863
+  },
+  {
+    "label": "Chard, swiss, raw",
+    "source": "usda",
+    "pral": -8.144
+  },
+  {
+    "label": "Dock, raw",
+    "source": "usda",
+    "pral": -8.129
+  },
+  {
+    "label": "Bamboo shoots, raw",
+    "source": "usda",
+    "pral": -7.983
+  },
+  {
+    "label": "Dandelion greens, raw",
+    "source": "usda",
+    "pral": -7.939
+  },
+  {
+    "label": "Ginger root, raw",
+    "source": "usda",
+    "pral": -7.8912
+  },
+  {
+    "label": "Lotus root, raw",
+    "source": "usda",
+    "pral": -7.885
+  },
+  {
+    "label": "Arugula, raw",
+    "source": "usda",
+    "pral": -7.8628
+  },
+  {
+    "label": "sweet potato leaves, raw",
+    "source": "usda",
+    "pral": -7.507
+  },
+  {
+    "label": "Cabbage, Chinese (pak-choi), cooked, boiled, drained, without salt",
+    "source": "usda",
+    "pral": -7.4486
+  },
+  {
+    "label": "Fennel, bulb, raw",
+    "source": "usda",
+    "pral": -7.3154
+  },
+  {
+    "label": "Turnip greens, raw",
+    "source": "usda",
+    "pral": -7.203
+  },
+  {
+    "label": "Bananas, raw",
+    "source": "usda",
+    "pral": -6.9369
+  },
+  {
+    "label": "Guavas, common, raw",
+    "source": "usda",
+    "pral": -6.8335
+  },
+  {
+    "label": "seaweed, agar, raw",
+    "source": "usda",
+    "pral": -6.7404
+  },
+  {
+    "label": "Mustard greens, raw",
+    "source": "usda",
+    "pral": -6.691
+  },
+  {
+    "label": "Beans, adzuki, mature seeds, raw",
+    "source": "usda",
+    "pral": -6.6607
+  },
+  {
+    "label": "Kale,cotch, cooked, boiled, drained, without salt",
+    "source": "usda",
+    "pral": -6.615
+  },
+  {
+    "label": "Rhubarb, raw",
+    "source": "usda",
+    "pral": -6.519
+  },
+  {
+    "label": "Collards, frozen, chopped, unprepared",
+    "source": "usda",
+    "pral": -6.3629
+  },
+  {
+    "label": "Collards, frozen, chopped, cooked, boiled, drained, without salt",
+    "source": "usda",
+    "pral": -6.3267
+  },
+  {
+    "label": "Prickly pears, raw",
+    "source": "usda",
+    "pral": -6.3123
+  },
+  {
+    "label": "Kiwifruit, (Chinese gooseberries), held in storage, raw",
+    "source": "usda",
+    "pral": -6.1249
+  },
+  {
+    "label": "Figs, dried,sulfured",
+    "source": "usda",
+    "pral": -6.0692
+  },
+  {
+    "label": "Endive, raw",
+    "source": "usda",
+    "pral": -6.0115
+  },
+  {
+    "label": "squash, zucchini, baby, raw",
+    "source": "usda",
+    "pral": -6.0011
+  },
+  {
+    "label": "Parsnips, raw",
+    "source": "usda",
+    "pral": -5.882
+  },
+  {
+    "label": "Jerusalem-artichokes, raw",
+    "source": "usda",
+    "pral": -5.767
+  },
+  {
+    "label": "soybeans, mature seeds, roasted, salted",
+    "source": "usda",
+    "pral": -5.7452
+  },
+  {
+    "label": "Parsnips, cooked, boiled, drained, without salt",
+    "source": "usda",
+    "pral": -5.7422
+  },
+  {
+    "label": "Carrots, raw",
+    "source": "usda",
+    "pral": -5.7103
+  },
+  {
+    "label": "Watercress, raw",
+    "source": "usda",
+    "pral": -5.689
+  },
+  {
+    "label": "Passion-fruit juice, purple, raw",
+    "source": "usda",
+    "pral": -5.6599
+  },
+  {
+    "label": "Beans, white, mature seeds, cooked, boiled, without salt",
+    "source": "usda",
+    "pral": -5.6403
+  },
+  {
+    "label": "Kiwi fruit, (Chinese gooseberries), fresh, raw",
+    "source": "usda",
+    "pral": -5.6194
+  },
+  {
+    "label": "Pumpkin, raw",
+    "source": "usda",
+    "pral": -5.607
+  },
+  {
+    "label": "Orange peel, raw",
+    "source": "usda",
+    "pral": -5.605
+  },
+  {
+    "label": "Okra, raw",
+    "source": "usda",
+    "pral": -5.587
+  },
+  {
+    "label": "Guavas, strawberry, raw",
+    "source": "usda",
+    "pral": -5.5638
+  },
+  {
+    "label": "Papayas, raw",
+    "source": "usda",
+    "pral": -5.4851
+  },
+  {
+    "label": "Beets, raw",
+    "source": "usda",
+    "pral": -5.3621
+  },
+  {
+    "label": "Burdock root, raw",
+    "source": "usda",
+    "pral": -5.3523
+  },
+  {
+    "label": "Peppers, hot chili, green, raw",
+    "source": "usda",
+    "pral": -5.342
+  },
+  {
+    "label": "Currants, European black, raw",
+    "source": "usda",
+    "pral": -5.232
+  },
+  {
+    "label": "Radishes, oriental, cooked, boiled, drained, without salt",
+    "source": "usda",
+    "pral": -5.2237
+  },
+  {
+    "label": "Broccoli, Chinese, cooked",
+    "source": "usda",
+    "pral": -5.1734
+  },
+  {
+    "label": "Beans, snap, yellow, cooked, boiled, drained, without salt",
+    "source": "usda",
+    "pral": -5.1579
+  },
+  {
+    "label": "Tomatoes, crushed, canned",
+    "source": "usda",
+    "pral": -5.1274
+  },
+  {
+    "label": "Nuts, coconut water (liquid from coconuts)",
+    "source": "usda",
+    "pral": -5.1192
+  },
+  {
+    "label": "Brussel sprouts, raw",
+    "source": "usda",
+    "pral": -5.1038
+  },
+  {
+    "label": "Prune juice, canned",
+    "source": "usda",
+    "pral": -5.0921
+  },
+  {
+    "label": "Passion-fruit juice, yellow, raw",
+    "source": "usda",
+    "pral": -5.0787
+  },
+  {
+    "label": "Melons, cantaloupe, raw",
+    "source": "usda",
+    "pral": -5.0694
+  },
+  {
+    "label": "Cabbage, Chinese (pak-choi), raw",
+    "source": "usda",
+    "pral": -5.047
+  },
+  {
+    "label": "Celery, raw",
+    "source": "usda",
+    "pral": -5.0399
+  },
+  {
+    "label": "Peppers, hot chili, red, raw",
+    "source": "usda",
+    "pral": -5.0347
+  },
+  {
+    "label": "Onions, spring or scallions (includes tops and bulb), raw",
+    "source": "usda",
+    "pral": -4.9863
+  },
+  {
+    "label": "Turnip greens, cooked, boiled, drained, without salt",
+    "source": "usda",
+    "pral": -4.9844
+  },
+  {
+    "label": "Beets, cooked, boiled, drained",
+    "source": "usda",
+    "pral": -4.9818
+  },
+  {
+    "label": "Artichokes, (globe or French), raw",
+    "source": "usda",
+    "pral": -4.9697
+  },
+  {
+    "label": "Radishes, white icicle, raw",
+    "source": "usda",
+    "pral": -4.89
+  },
+  {
+    "label": "Cabbage, mustard, salted",
+    "source": "usda",
+    "pral": -4.889
+  },
+  {
+    "label": "Beans, white, mature seeds, canned",
+    "source": "usda",
+    "pral": -4.8846
+  },
+  {
+    "label": "Figs, raw",
+    "source": "usda",
+    "pral": -4.8835
+  },
+  {
+    "label": "Horseradish, prepared",
+    "source": "usda",
+    "pral": -4.8708
+  },
+  {
+    "label": "seaweed, kelp, raw",
+    "source": "usda",
+    "pral": -4.8218
+  },
+  {
+    "label": "Nuts, chestnuts, Japanese, raw",
+    "source": "usda",
+    "pral": -4.8195
+  },
+  {
+    "label": "Pomegranates, raw",
+    "source": "usda",
+    "pral": -4.7945
+  },
+  {
+    "label": "Carrot juice, canned",
+    "source": "usda",
+    "pral": -4.7885
+  },
+  {
+    "label": "Chives, raw",
+    "source": "usda",
+    "pral": -4.7557
+  },
+  {
+    "label": "Radicchio, raw",
+    "source": "usda",
+    "pral": -4.7463
+  },
+  {
+    "label": "Elderberries, raw",
+    "source": "usda",
+    "pral": -4.7376
+  },
+  {
+    "label": "Cabbage, common (Danish, domestic, and pointed types), freshly harvest, raw",
+    "source": "usda",
+    "pral": -4.7231
+  },
+  {
+    "label": "Cabbage, Chinese (pe-tsai), raw",
+    "source": "usda",
+    "pral": -4.676
+  },
+  {
+    "label": "Onions, young green, tops only",
+    "source": "usda",
+    "pral": -4.67
+  },
+  {
+    "label": "Tomatoes, red, ripe, canned, wedges in tomato juice",
+    "source": "usda",
+    "pral": -4.6569
+  },
+  {
+    "label": "Passion-fruit, (granadilla), purple, raw",
+    "source": "usda",
+    "pral": -4.624
+  },
+  {
+    "label": "Cabbage, raw",
+    "source": "usda",
+    "pral": -4.6104
+  },
+  {
+    "label": "Shallots, raw",
+    "source": "usda",
+    "pral": -4.596
+  },
+  {
+    "label": "Broccoli raab, cooked",
+    "source": "usda",
+    "pral": -4.5283
+  },
+  {
+    "label": "Mushrooms, portabella, raw",
+    "source": "usda",
+    "pral": -4.519
+  },
+  {
+    "label": "Melons, honeydew, raw",
+    "source": "usda",
+    "pral": -4.4544
+  },
+  {
+    "label": "Cauliflower, raw",
+    "source": "usda",
+    "pral": -4.4408
+  },
+  {
+    "label": "Longans, raw",
+    "source": "usda",
+    "pral": -4.4401
+  },
+  {
+    "label": "Apricots, raw",
+    "source": "usda",
+    "pral": -4.331
+  },
+  {
+    "label": "Tomatillos, raw",
+    "source": "usda",
+    "pral": -4.3256
+  },
+  {
+    "label": "Lemon peel, raw",
+    "source": "usda",
+    "pral": -4.313
+  },
+  {
+    "label": "Carrots, baby, raw",
+    "source": "usda",
+    "pral": -4.3034
+  },
+  {
+    "label": "Cabbage, red, raw",
+    "source": "usda",
+    "pral": -4.2933
+  },
+  {
+    "label": "Mushrooms, brown, Italian, or Crimini, raw",
+    "source": "usda",
+    "pral": -4.211
+  },
+  {
+    "label": "Broccoli, flower clusters, raw",
+    "source": "usda",
+    "pral": -4.1968
+  },
+  {
+    "label": "Broccoli, leaves, raw",
+    "source": "usda",
+    "pral": -4.1968
+  },
+  {
+    "label": "Broccoli, stalks, raw",
+    "source": "usda",
+    "pral": -4.1968
+  },
+  {
+    "label": "Collards, raw",
+    "source": "usda",
+    "pral": -4.0975
+  },
+  {
+    "label": "Tomatoes, yellow, raw",
+    "source": "usda",
+    "pral": -4.0608
+  },
+  {
+    "label": "Nuts, coconut meat, dried (desiccated), toasted",
+    "source": "usda",
+    "pral": -3.973
+  },
+  {
+    "label": "Broccoli, raw",
+    "source": "usda",
+    "pral": -3.9692
+  },
+  {
+    "label": "Oranges, raw, with peel",
+    "source": "usda",
+    "pral": -3.939
+  },
+  {
+    "label": "Cherries,sweet, raw",
+    "source": "usda",
+    "pral": -3.8206
+  },
+  {
+    "label": "spices, nutmeg, ground",
+    "source": "usda",
+    "pral": -3.7574
+  },
+  {
+    "label": "Quinces, raw",
+    "source": "usda",
+    "pral": -3.663
+  },
+  {
+    "label": "Orange juice, raw",
+    "source": "usda",
+    "pral": -3.657
+  },
+  {
+    "label": "Kumquats, raw",
+    "source": "usda",
+    "pral": -3.6078
+  },
+  {
+    "label": "Oranges, raw, Florida",
+    "source": "usda",
+    "pral": -3.581
+  },
+  {
+    "label": "Cauliflower, green, raw",
+    "source": "usda",
+    "pral": -3.5095
+  },
+  {
+    "label": "Tangerines, (mandarin oranges), raw",
+    "source": "usda",
+    "pral": -3.1421
+  },
+  {
+    "label": "Lettuce, green leaf, raw",
+    "source": "usda",
+    "pral": -3.1406
+  },
+  {
+    "label": "Peaches, raw",
+    "source": "usda",
+    "pral": -3.1161
+  },
+  {
+    "label": "Acerola, (west Indian cherry), raw",
+    "source": "usda",
+    "pral": -3.087
+  },
+  {
+    "label": "Nectarines, raw",
+    "source": "usda",
+    "pral": -3.0516
+  },
+  {
+    "label": "Cherries, sour, red, raw",
+    "source": "usda",
+    "pral": -3.03
+  },
+  {
+    "label": "Mangos, raw",
+    "source": "usda",
+    "pral": -2.9831
+  },
+  {
+    "label": "Lettuce, red leaf, raw",
+    "source": "usda",
+    "pral": -2.9803
+  },
+  {
+    "label": "strawberries, frozen, un-sweetened",
+    "source": "usda",
+    "pral": -2.9103
+  },
+  {
+    "label": "Blackberries, raw",
+    "source": "usda",
+    "pral": -2.8039
+  },
+  {
+    "label": "Nuts, coconut meat, raw",
+    "source": "usda",
+    "pral": -2.6773
+  },
+  {
+    "label": "Garlic, raw",
+    "source": "usda",
+    "pral": -2.6466
+  },
+  {
+    "label": "Plums, raw",
+    "source": "usda",
+    "pral": -2.622
+  },
+  {
+    "label": "strawberries, raw",
+    "source": "usda",
+    "pral": -2.5427
+  },
+  {
+    "label": "Cucumber, with peel, raw",
+    "source": "usda",
+    "pral": -2.4265
+  },
+  {
+    "label": "Raspberries, raw",
+    "source": "usda",
+    "pral": -2.407
+  },
+  {
+    "label": "Celeriac, raw",
+    "source": "usda",
+    "pral": -2.389
+  },
+  {
+    "label": "Feijoa, raw",
+    "source": "usda",
+    "pral": -2.3624
+  },
+  {
+    "label": "Litchis, raw",
+    "source": "usda",
+    "pral": -2.3623
+  },
+  {
+    "label": "Pineapple, raw, all varieties",
+    "source": "usda",
+    "pral": -2.3354
+  },
+  {
+    "label": "Beans, pinto, mature seeds, sprouted, raw",
+    "source": "usda",
+    "pral": -2.3335
+  },
+  {
+    "label": "Pears, raw",
+    "source": "usda",
+    "pral": -2.2048
+  },
+  {
+    "label": "Asparagus, cooked, boiled, drained, with salt",
+    "source": "usda",
+    "pral": -2.193
+  },
+  {
+    "label": "Lime juice, raw",
+    "source": "usda",
+    "pral": -2.1232
+  },
+  {
+    "label": "Apples, raw, with skin",
+    "source": "usda",
+    "pral": -1.9206
+  },
+  {
+    "label": "Cranberries, raw",
+    "source": "usda",
+    "pral": -1.3729
+  },
+  {
+    "label": "seaweed, wakame, raw",
+    "source": "usda",
+    "pral": -1.3373
+  },
+  {
+    "label": "Blueberries, raw",
+    "source": "usda",
+    "pral": -1.0444
+  },
+  {
+    "label": "Milk, goat, fluid",
+    "source": "usda",
+    "pral": -0.5386
+  },
+  {
+    "label": "Nuts, macadamia nuts, dry roasted, without salt added",
+    "source": "usda",
+    "pral": -0.4579
+  },
+  {
+    "label": "Tofu yogurt",
+    "source": "usda",
+    "pral": -0.44
+  },
+  {
+    "label": "Tea, herb, chamomile, brewed",
+    "source": "usda",
+    "pral": -0.241
+  },
+  {
+    "label": "Quinoa",
+    "source": "usda",
+    "pral": -0.191
+  },
+  {
+    "label": "Tapioca, pearl, dry",
+    "source": "usda",
+    "pral": -0.1649
+  },
+  {
+    "label": "Fish oil, cod liver",
+    "source": "usda",
+    "pral": 0
+  },
+  {
+    "label": "Yogurt, vanilla, low fat, 11 grams protein per 8 ounce",
+    "source": "usda",
+    "pral": 0.1727
+  },
+  {
+    "label": "Cream, whipped, cream topping, pressurized",
+    "source": "usda",
+    "pral": 0.175
+  },
+  {
+    "label": "Milk, low-fat, fluid, 1% milk fat, with added vitamin A",
+    "source": "usda",
+    "pral": 0.1833
+  },
+  {
+    "label": "Milk, whole, 3.25% milk fat",
+    "source": "usda",
+    "pral": 0.2128
+  },
+  {
+    "label": "Cereals, Instant Oatmeal, apples and cinnamon, prepared with boiling water",
+    "source": "usda",
+    "pral": 0.2338
+  },
+  {
+    "label": "Beef gravy",
+    "source": "usda",
+    "pral": 0.2861
+  },
+  {
+    "label": "Butter, whipped, with salt",
+    "source": "usda",
+    "pral": 0.3575
+  },
+  {
+    "label": "sweeteners, table top, saccharin",
+    "source": "usda",
+    "pral": 0.3766
+  },
+  {
+    "label": "Candies, fudge, chocolate, with nuts, prepared-from-recipe",
+    "source": "usda",
+    "pral": 0.3782
+  },
+  {
+    "label": "sour cream, fat free",
+    "source": "usda",
+    "pral": 0.44
+  },
+  {
+    "label": "Ice creams, vanilla, rich",
+    "source": "usda",
+    "pral": 0.496
+  },
+  {
+    "label": "Mayonnaise dressing, no cholesterol",
+    "source": "usda",
+    "pral": 0.514
+  },
+  {
+    "label": "English muffins, mixed-grain (includes granola)",
+    "source": "usda",
+    "pral": 0.566
+  },
+  {
+    "label": "Soy milk, fluid, calcium fortified",
+    "source": "usda",
+    "pral": 0.576
+  },
+  {
+    "label": "Bulgur, cooked",
+    "source": "usda",
+    "pral": 0.5992
+  },
+  {
+    "label": "snacks, tortilla chips, plain, white corn",
+    "source": "usda",
+    "pral": 0.6441
+  },
+  {
+    "label": "Baby food, cereal, rice, with honey, prepared with whole milk",
+    "source": "usda",
+    "pral": 0.694
+  },
+  {
+    "label": "Candies, chocolate Wafer Bar",
+    "source": "usda",
+    "pral": 0.7469
+  },
+  {
+    "label": "Bread, banana, prepared from recipe, made with margarine",
+    "source": "usda",
+    "pral": 0.802
+  },
+  {
+    "label": "Luncheon meat, pork and chicken, minced, canned, includes SPAM Lite",
+    "source": "usda",
+    "pral": 0.8397
+  },
+  {
+    "label": "Rice, white, glutinous, cooked",
+    "source": "usda",
+    "pral": 0.9198
+  },
+  {
+    "label": "Rice noodles, cooked",
+    "source": "usda",
+    "pral": 0.9719
+  },
+  {
+    "label": "Buckwheat groats, roasted, cooked",
+    "source": "usda",
+    "pral": 0.9812
+  },
+  {
+    "label": "Lasagne, cheese, frozen entree",
+    "source": "usda",
+    "pral": 1.6573
+  },
+  {
+    "label": "Bread, raisin, toasted, enriched",
+    "source": "usda",
+    "pral": 1.75
+  },
+  {
+    "label": "Bread, whole-wheat, prepared from recipe",
+    "source": "usda",
+    "pral": 1.906
+  },
+  {
+    "label": "Mollusks, oyster, eastern, farmed, raw",
+    "source": "usda",
+    "pral": 1.9648
+  },
+  {
+    "label": "Oat bran, cooked",
+    "source": "usda",
+    "pral": 2.8739
+  },
+  {
+    "label": "Pancakes, buttermilk, prepared from recipe",
+    "source": "usda",
+    "pral": 2.999
+  },
+  {
+    "label": "Peanut butter, chunk style, with salt",
+    "source": "usda",
+    "pral": 3.2024
+  },
+  {
+    "label": "Tofu, extra firm, prepared with nigari",
+    "source": "usda",
+    "pral": 3.4531
+  },
+  {
+    "label": "Cheese, cream",
+    "source": "usda",
+    "pral": 3.8525
+  },
+  {
+    "label": "Pork, fresh, variety meats and by-s, mechanically separated, raw",
+    "source": "usda",
+    "pral": 3.9957
+  },
+  {
+    "label": "Turkey and gravy, frozen",
+    "source": "usda",
+    "pral": 4.2072
+  },
+  {
+    "label": "Lamb, Australian, imported, fresh, separable fat, cooked",
+    "source": "usda",
+    "pral": 4.4118
+  },
+  {
+    "label": "Pork and turkey sausage, pre-cooked",
+    "source": "usda",
+    "pral": 4.4945
+  },
+  {
+    "label": "Croissants, butter",
+    "source": "usda",
+    "pral": 4.528
+  },
+  {
+    "label": "Gravy, brown, dry",
+    "source": "usda",
+    "pral": 4.6716
+  },
+  {
+    "label": "Pork, cured, ham, patties, grilled",
+    "source": "usda",
+    "pral": 4.753
+  },
+  {
+    "label": "Breakfast bars, oats, sugar, raisins, coconut (include granola bar)",
+    "source": "usda",
+    "pral": 4.799
+  },
+  {
+    "label": "Beef, cured, corned beef, brisket, raw",
+    "source": "usda",
+    "pral": 4.8302
+  },
+  {
+    "label": "Nuts, mixed nuts, oil roasted, without peanuts, without salt added",
+    "source": "usda",
+    "pral": 4.8898
+  },
+  {
+    "label": "Veal, composite of trimmed retail cuts, separable fat, cooked",
+    "source": "usda",
+    "pral": 4.9628
+  },
+  {
+    "label": "Fish, mackerel, salted",
+    "source": "usda",
+    "pral": 5.125
+  },
+  {
+    "label": "Fish, anchovy, European, raw",
+    "source": "usda",
+    "pral": 5.3895
+  },
+  {
+    "label": "Pizza, cheese topping, regular crust, frozen, cooked",
+    "source": "usda",
+    "pral": 5.5824
+  },
+  {
+    "label": "Fish, herring, Pacific, raw",
+    "source": "usda",
+    "pral": 5.6731
+  },
+  {
+    "label": "Crackers, wheat, low salt",
+    "source": "usda",
+    "pral": 5.842
+  },
+  {
+    "label": "Cheese, ricotta, whole milk",
+    "source": "usda",
+    "pral": 6.1814
+  },
+  {
+    "label": "Fish, halibut, Atlantic and Pacific, raw",
+    "source": "usda",
+    "pral": 6.1919
+  },
+  {
+    "label": "Nuts, cashew nuts, dry roasted, with salt added",
+    "source": "usda",
+    "pral": 6.4219
+  },
+  {
+    "label": "Fish, cod, Atlantic, raw",
+    "source": "usda",
+    "pral": 6.5249
+  },
+  {
+    "label": "Ham, chopped, not canned",
+    "source": "usda",
+    "pral": 6.614
+  },
+  {
+    "label": "Macaroni, dry, unenriched",
+    "source": "usda",
+    "pral": 6.9256
+  },
+  {
+    "label": "Rice, white, long-grain, precooked or instant, enriched, dry",
+    "source": "usda",
+    "pral": 6.9808
+  },
+  {
+    "label": "Turkey breast meat",
+    "source": "usda",
+    "pral": 7.3663
+  },
+  {
+    "label": "Crustaceans, lobster, northern, raw",
+    "source": "usda",
+    "pral": 7.439
+  },
+  {
+    "label": "Couscous, dry",
+    "source": "usda",
+    "pral": 7.6004
+  },
+  {
+    "label": "Nuts, brazil nuts, dried, unblanched",
+    "source": "usda",
+    "pral": 8.1468
+  },
+  {
+    "label": "Crustaceans, crab, blue, raw",
+    "source": "usda",
+    "pral": 8.3724
+  },
+  {
+    "label": "Fish, mackerel, Atlantic, raw",
+    "source": "usda",
+    "pral": 8.417
+  },
+  {
+    "label": "Nuts, pine nuts, dried",
+    "source": "usda",
+    "pral": 8.7121
+  },
+  {
+    "label": "Chicken breast, oven-roasted, fat-free, sliced",
+    "source": "usda",
+    "pral": 8.7281
+  },
+  {
+    "label": "Fish, tuna, fresh, skipjack, raw",
+    "source": "usda",
+    "pral": 9.186
+  },
+  {
+    "label": "Wild rice, raw",
+    "source": "usda",
+    "pral": 9.3967
+  },
+  {
+    "label": "Egg, whole, raw, fresh",
+    "source": "usda",
+    "pral": 9.4162
+  },
+  {
+    "label": "Pastrami, beef, 98% fat-free",
+    "source": "usda",
+    "pral": 9.781
+  },
+  {
+    "label": "Beef, rib, whole (ribs 6-12),separable lean and fat, trimmed to 1/8\" fat, prime, cooked, broiled",
+    "source": "usda",
+    "pral": 9.8355
+  },
+  {
+    "label": "Turkey, all classes, skin only, cooked, roasted",
+    "source": "usda",
+    "pral": 10.491
+  },
+  {
+    "label": "Cheese, brie",
+    "source": "usda",
+    "pral": 11.0195
+  },
+  {
+    "label": "Fish, salmon, Atlantic, farmed, cooked, dry heat",
+    "source": "usda",
+    "pral": 11.114
+  },
+  {
+    "label": "Rye",
+    "source": "usda",
+    "pral": 11.9514
+  },
+  {
+    "label": "Wheat, durum",
+    "source": "usda",
+    "pral": 12.2622
+  },
+  {
+    "label": "Pork, fresh, ground, cooked",
+    "source": "usda",
+    "pral": 12.4381
+  },
+  {
+    "label": "Beef, ground, 90% lean meat / 10% fat, patty, cooked, broiled",
+    "source": "usda",
+    "pral": 12.5339
+  },
+  {
+    "label": "Veal, shoulder, arm, separable lean only, cooked, roasted",
+    "source": "usda",
+    "pral": 12.6367
+  },
+  {
+    "label": "Fish, tuna, light, canned in water, without salt, drained Solids",
+    "source": "usda",
+    "pral": 12.7089
+  },
+  {
+    "label": "Cheese, camembert",
+    "source": "usda",
+    "pral": 13.05
+  },
+  {
+    "label": "Chicken, roasting, meat only, cooked, roasted",
+    "source": "usda",
+    "pral": 13.8479
+  },
+  {
+    "label": "Cheese, mozzarella, part skim milk",
+    "source": "usda",
+    "pral": 16.4904
+  },
+  {
+    "label": "Lemonade, low calorie, with aspartame",
+    "source": "usda",
+    "pral": 18.393
+  },
+  {
+    "label": "Cheese, Swiss",
+    "source": "usda",
+    "pral": 21.2867
+  },
+  {
+    "label": "Gelatine deserts, dry mix, reduced calorie, with aspartame, no added sodium",
+    "source": "usda",
+    "pral": 74.592
+  },
+  {
+    "label": "Puddings, all flavours except chocolate, low calorie, instant, dry mix",
+    "source": "usda",
+    "pral": 85.3939
+  },
+  {
+    "label": "Leavening agents, baking , double-acting, straight phosphate",
+    "source": "usda",
+    "pral": 270.164
+  }
+]

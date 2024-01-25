@@ -1,6 +1,4 @@
-import { get } from "svelte/store";
-import { test } from "vitest";
-import { writeFileSync } from "node:fs";
+import translatte from "npm:translatte";
 
 function createRegex(startString) {
   // Escape special characters in the start string
@@ -48,7 +46,7 @@ const readLabels = () =>
     )
   );
 
-const labels = [
+const labelsDE = [
   "Aal geräuchert",
   "Amaranth (Samen)",
   "Ananas",
@@ -246,13 +244,14 @@ const labels = [
   "Äpfel",
 ];
 
-test("readPRAL", async () => {
-  const results = [];
+const results = [];
 
-  for (const label of labels) {
-    const pral = await getPRALByName(label).catch(() => null);
-    results.push({ label, pral });
-  }
+for (const label of labelsDE) {
+  const pral = await getPRALByName(label).catch(() => null);
 
-  writeFileSync("src/pral-lookup.json", JSON.stringify(results, null, 2));
-});
+  const labelEN = await translatte(label, { from: "de", to: "en" });
+
+  results.push({ label: labelEN, labelDE: label, pral, source: "av" });
+}
+
+Deno.writeTextFileSync("out/av.json", JSON.stringify(results, null, 2));

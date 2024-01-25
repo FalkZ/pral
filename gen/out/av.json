@@ -1,0 +1,1166 @@
+[
+  {
+    "label": "Eel smoking",
+    "labelDE": "Aal geräuchert",
+    "pral": 10.35,
+    "source": "av"
+  },
+  {
+    "label": "Amaranth (seeds)",
+    "labelDE": "Amaranth (Samen)",
+    "pral": 7.5,
+    "source": "av"
+  },
+  {
+    "label": "pineapple",
+    "labelDE": "Ananas",
+    "pral": -3.45,
+    "source": "av"
+  },
+  {
+    "label": "Apple Cider Vinegar",
+    "labelDE": "Apfelessig",
+    "pral": -2.17,
+    "source": "av"
+  },
+  {
+    "label": "Apple juice, unsweetened",
+    "labelDE": "Apfelsaft, ungesüsst",
+    "pral": -2.03,
+    "source": "av"
+  },
+  {
+    "label": "Apricots",
+    "labelDE": "Aprikosen",
+    "pral": -5.15,
+    "source": "av"
+  },
+  {
+    "label": "Banana",
+    "labelDE": "Bananen",
+    "pral": -7.46,
+    "source": "av"
+  },
+  {
+    "label": "basil",
+    "labelDE": "Basilikum",
+    "pral": -6.95,
+    "source": "av"
+  },
+  {
+    "label": "Beer, Pilsener species",
+    "labelDE": "Bier, Pilsener Art",
+    "pral": -0.04,
+    "source": "av"
+  },
+  {
+    "label": "Beer, dark",
+    "labelDE": "Bier, dunkel",
+    "pral": -0.23,
+    "source": "av"
+  },
+  {
+    "label": "Beer, light",
+    "labelDE": "Bier, hell",
+    "pral": 0.2,
+    "source": "av"
+  },
+  {
+    "label": "Beer ham",
+    "labelDE": "Bierschinken",
+    "pral": 7.48,
+    "source": "av"
+  },
+  {
+    "label": "Pear",
+    "labelDE": "Birnen",
+    "pral": -2.21,
+    "source": "av"
+  },
+  {
+    "label": "bitter chocolate",
+    "labelDE": "Bitterschokolade",
+    "pral": -11.45,
+    "source": "av"
+  },
+  {
+    "label": "cauliflower",
+    "labelDE": "Blumenkohl",
+    "pral": -4.64,
+    "source": "av"
+  },
+  {
+    "label": "Beans, green",
+    "labelDE": "Bohnen, grün",
+    "pral": -3.87,
+    "source": "av"
+  },
+  {
+    "label": "Broccoli",
+    "labelDE": "Broccoli",
+    "pral": -4.64,
+    "source": "av"
+  },
+  {
+    "label": "Buckwheat (whole grain)",
+    "labelDE": "Buchweizen (ganzes Korn)",
+    "pral": 2.42,
+    "source": "av"
+  },
+  {
+    "label": "butter",
+    "labelDE": "Butter",
+    "pral": 0.49,
+    "source": "av"
+  },
+  {
+    "label": "Butter cheese (50% fat i. Tr.)",
+    "labelDE": "Butterkäse (50% Fett i. Tr.)",
+    "pral": 13.09,
+    "source": "av"
+  },
+  {
+    "label": "Buttermilk",
+    "labelDE": "Buttermilch",
+    "pral": -0.01,
+    "source": "av"
+  },
+  {
+    "label": "Camembert",
+    "labelDE": "Camembert",
+    "pral": 12.28,
+    "source": "av"
+  },
+  {
+    "label": "Cervelatwurst",
+    "labelDE": "Cervelatwurst",
+    "pral": 8.43,
+    "source": "av"
+  },
+  {
+    "label": "Cheddar, reduced fat content",
+    "labelDE": "Cheddar, reduzierter Fettgehalt",
+    "pral": 26.4,
+    "source": "av"
+  },
+  {
+    "label": "Chicory",
+    "labelDE": "Chicorée",
+    "pral": -3.15,
+    "source": "av"
+  },
+  {
+    "label": "cola",
+    "labelDE": "Cola",
+    "pral": 1.75,
+    "source": "av"
+  },
+  {
+    "label": "Corned beef, in doses",
+    "labelDE": "Corned beef, in Dosen",
+    "pral": 11.21,
+    "source": "av"
+  },
+  {
+    "label": "cornflakes",
+    "labelDE": "Cornflakes",
+    "pral": 2.63,
+    "source": "av"
+  },
+  {
+    "label": "Spelled (green core whole grain)",
+    "labelDE": "Dinkel (Grünkern Vollkorn)",
+    "pral": 7.5,
+    "source": "av"
+  },
+  {
+    "label": "Edam",
+    "labelDE": "Edamer",
+    "pral": 18.51,
+    "source": "av"
+  },
+  {
+    "label": "Egg noodles",
+    "labelDE": "Eiernudeln",
+    "pral": 6.35,
+    "source": "av"
+  },
+  {
+    "label": "egg yolk",
+    "labelDE": "Eigelb",
+    "pral": 23.48,
+    "source": "av"
+  },
+  {
+    "label": "Ice, fruit ice cream, mixed",
+    "labelDE": "Eis, Fruchteis, gemischt",
+    "pral": -0.67,
+    "source": "av"
+  },
+  {
+    "label": "Ice, milk ice cream, vanilla",
+    "labelDE": "Eis, Milcheis, Vanille",
+    "pral": 2.26,
+    "source": "av"
+  },
+  {
+    "label": "Iceberg salad",
+    "labelDE": "Eisbergsalat",
+    "pral": -2.56,
+    "source": "av"
+  },
+  {
+    "label": "Protein",
+    "labelDE": "Eiweiss",
+    "pral": 2.38,
+    "source": "av"
+  },
+  {
+    "label": "Emmentaler (45% fat i. Tr.)",
+    "labelDE": "Emmentaler (45% Fett i. Tr.)",
+    "pral": 21.54,
+    "source": "av"
+  },
+  {
+    "label": "duck",
+    "labelDE": "Ente",
+    "pral": 8.4,
+    "source": "av"
+  },
+  {
+    "label": "Peas",
+    "labelDE": "Erbsen",
+    "pral": 1.69,
+    "source": "av"
+  },
+  {
+    "label": "Strawberries",
+    "labelDE": "Erdbeeren",
+    "pral": -2.54,
+    "source": "av"
+  },
+  {
+    "label": "Peanuts, untreated",
+    "labelDE": "Erdnüsse, unbehandelt",
+    "pral": 6.68,
+    "source": "av"
+  },
+  {
+    "label": "Espresso, infusion",
+    "labelDE": "Espresso, Aufguss",
+    "pral": -2.3,
+    "source": "av"
+  },
+  {
+    "label": "Cucumber",
+    "labelDE": "Essiggurken",
+    "pral": -1.45,
+    "source": "av"
+  },
+  {
+    "label": "Fig, dried",
+    "labelDE": "Feigen, getrocknet",
+    "pral": -20.18,
+    "source": "av"
+  },
+  {
+    "label": "Lamb's lettuce",
+    "labelDE": "Feldsalat",
+    "pral": -6.62,
+    "source": "av"
+  },
+  {
+    "label": "fennel",
+    "labelDE": "Fenchel",
+    "pral": -9.77,
+    "source": "av"
+  },
+  {
+    "label": "Meat",
+    "labelDE": "Fleischwurst",
+    "pral": 7,
+    "source": "av"
+  },
+  {
+    "label": "Trout, steamed",
+    "labelDE": "Forelle, gedämpft",
+    "pral": 9.51,
+    "source": "av"
+  },
+  {
+    "label": "Frankfurter",
+    "labelDE": "Frankfurter",
+    "pral": 6.7,
+    "source": "av"
+  },
+  {
+    "label": "cream cheese",
+    "labelDE": "Frischkäse",
+    "pral": 0.9,
+    "source": "av"
+  },
+  {
+    "label": "Fruit yogurt from whole milk",
+    "labelDE": "Fruchtjoghurt aus Vollmilch",
+    "pral": 1.2,
+    "source": "av"
+  },
+  {
+    "label": "Fruit tea, infusion",
+    "labelDE": "Früchtetee, Aufguss",
+    "pral": -0.24,
+    "source": "av"
+  },
+  {
+    "label": "Breakfast meat, in cans",
+    "labelDE": "Frühstücksfleisch, in Dosen",
+    "pral": 10.2,
+    "source": "av"
+  },
+  {
+    "label": "Gans (pure muscle meat)",
+    "labelDE": "Gans (reines Muskelfleisch)",
+    "pral": 5.89,
+    "source": "av"
+  },
+  {
+    "label": "shrimp",
+    "labelDE": "Garnele",
+    "pral": 18.2,
+    "source": "av"
+  },
+  {
+    "label": "Vegetable juice (tomato, beet, carrot)",
+    "labelDE": "Gemüsesaft (Tomate, Rote-Rübe, Möhre)",
+    "pral": -3.6,
+    "source": "av"
+  },
+  {
+    "label": "Barley (whole grain)",
+    "labelDE": "Gerste (ganzes Korn)",
+    "pral": 5.58,
+    "source": "av"
+  },
+  {
+    "label": "Gouda cheese",
+    "labelDE": "Gouda",
+    "pral": 18.75,
+    "source": "av"
+  },
+  {
+    "label": "Graham bread",
+    "labelDE": "Grahambrot",
+    "pral": 7.2,
+    "source": "av"
+  },
+  {
+    "label": "Grapefruit",
+    "labelDE": "Grapefruit",
+    "pral": -3.07,
+    "source": "av"
+  },
+  {
+    "label": "Grapefruit juice, unsweetened",
+    "labelDE": "Grapefruitsaft, ungesüsst",
+    "pral": -2.6,
+    "source": "av"
+  },
+  {
+    "label": "Kale",
+    "labelDE": "Grünkohl",
+    "pral": -7.87,
+    "source": "av"
+  },
+  {
+    "label": "Green tea, infusion",
+    "labelDE": "Grüntee, Aufguss",
+    "pral": -0.45,
+    "source": "av"
+  },
+  {
+    "label": "Cucumber",
+    "labelDE": "Gurken",
+    "pral": -2.3,
+    "source": "av"
+  },
+  {
+    "label": "Oatmeal (whole grain)",
+    "labelDE": "Haferflocken (Vollkorn)",
+    "pral": 8.98,
+    "source": "av"
+  },
+  {
+    "label": "Hard cheese, average of 4 varieties",
+    "labelDE": "Hartkäse, Durchschnitt von 4 Sorten",
+    "pral": 19.2,
+    "source": "av"
+  },
+  {
+    "label": "Hazelnuts",
+    "labelDE": "Haselnüsse",
+    "pral": -1.96,
+    "source": "av"
+  },
+  {
+    "label": "Halibut",
+    "labelDE": "Heilbutt",
+    "pral": 9.44,
+    "source": "av"
+  },
+  {
+    "label": "herring",
+    "labelDE": "Hering",
+    "pral": 9.18,
+    "source": "av"
+  },
+  {
+    "label": "Marse (whole grain)",
+    "labelDE": "Hirse (ganzes Korn)",
+    "pral": 2.46,
+    "source": "av"
+  },
+  {
+    "label": "Honey",
+    "labelDE": "Honig",
+    "pral": -0.39,
+    "source": "av"
+  },
+  {
+    "label": "Chicken",
+    "labelDE": "Hühnerei",
+    "pral": 9.96,
+    "source": "av"
+  },
+  {
+    "label": "Chicken",
+    "labelDE": "Hühnerfleisch",
+    "pral": 8.7,
+    "source": "av"
+  },
+  {
+    "label": "Hut cheese, full fat level",
+    "labelDE": "Hüttenkäse, Vollfettstufe",
+    "pral": 8.43,
+    "source": "av"
+  },
+  {
+    "label": "Hunting sausage",
+    "labelDE": "Jagdwurst",
+    "pral": 7.2,
+    "source": "av"
+  },
+  {
+    "label": "Cod",
+    "labelDE": "Kabeljaufillet",
+    "pral": 7.6,
+    "source": "av"
+  },
+  {
+    "label": "Coffee, infusion, 5 minutes",
+    "labelDE": "Kaffee,  Aufguss, 5 Minuten",
+    "pral": -1.4,
+    "source": "av"
+  },
+  {
+    "label": "Cocoa, rod.",
+    "labelDE": "Kakao, herg. aus entrahmter Milch (3,5%)",
+    "pral": -0.4,
+    "source": "av"
+  },
+  {
+    "label": "veal",
+    "labelDE": "Kalbfleisch",
+    "pral": 9,
+    "source": "av"
+  },
+  {
+    "label": "Rabbits",
+    "labelDE": "Kaninchen",
+    "pral": 19,
+    "source": "av"
+  },
+  {
+    "label": "Carrots, boy",
+    "labelDE": "Karotten, junge",
+    "pral": -5.17,
+    "source": "av"
+  },
+  {
+    "label": "carp",
+    "labelDE": "Karpfen",
+    "pral": 8.72,
+    "source": "av"
+  },
+  {
+    "label": "potatoes",
+    "labelDE": "Kartoffeln",
+    "pral": -6.14,
+    "source": "av"
+  },
+  {
+    "label": "kefir",
+    "labelDE": "Kefir",
+    "pral": 0.34,
+    "source": "av"
+  },
+  {
+    "label": "Cherries",
+    "labelDE": "Kirschen",
+    "pral": -3.71,
+    "source": "av"
+  },
+  {
+    "label": "kiwi",
+    "labelDE": "Kiwi",
+    "pral": -5.51,
+    "source": "av"
+  },
+  {
+    "label": "Garlic",
+    "labelDE": "Knoblauch",
+    "pral": -3.36,
+    "source": "av"
+  },
+  {
+    "label": "Kohlrabi",
+    "labelDE": "Kohlrabi",
+    "pral": -6.79,
+    "source": "av"
+  },
+  {
+    "label": "Condensed milk",
+    "labelDE": "Kondensmilch",
+    "pral": 0.05,
+    "source": "av"
+  },
+  {
+    "label": "Lettuce, average of 4 varieties",
+    "labelDE": "Kopfsalat, Durchschnitt von 4 Sorten",
+    "pral": -3.78,
+    "source": "av"
+  },
+  {
+    "label": "Crab",
+    "labelDE": "Krabben",
+    "pral": 8.88,
+    "source": "av"
+  },
+  {
+    "label": "herbal tea",
+    "labelDE": "Kräutertee",
+    "pral": -0.24,
+    "source": "av"
+  },
+  {
+    "label": "Cow milk 1.5%",
+    "labelDE": "Kuhmilch 1,5%",
+    "pral": 0.39,
+    "source": "av"
+  },
+  {
+    "label": "Salmon",
+    "labelDE": "Lachs",
+    "pral": 10.01,
+    "source": "av"
+  },
+  {
+    "label": "Lamb (lean)",
+    "labelDE": "Lammfleisch (mager)",
+    "pral": 10.5,
+    "source": "av"
+  },
+  {
+    "label": "Lauch (leek)",
+    "labelDE": "Lauch (Porree)",
+    "pral": -3.85,
+    "source": "av"
+  },
+  {
+    "label": "Liver (calf)",
+    "labelDE": "Leber (Kalb)",
+    "pral": 14.99,
+    "source": "av"
+  },
+  {
+    "label": "Liver (beef)",
+    "labelDE": "Leber (Rind)",
+    "pral": 16.61,
+    "source": "av"
+  },
+  {
+    "label": "Liver (pig)",
+    "labelDE": "Leber (Schwein)",
+    "pral": 15.7,
+    "source": "av"
+  },
+  {
+    "label": "Liver sausage",
+    "labelDE": "Leberwurst",
+    "pral": 9.09,
+    "source": "av"
+  },
+  {
+    "label": "Lentils, green and brown, dried",
+    "labelDE": "Linsen, grün und braun, getrocknet",
+    "pral": 4.81,
+    "source": "av"
+  },
+  {
+    "label": "Corn (whole grain)",
+    "labelDE": "Mais (ganzes Korn)",
+    "pral": 3.24,
+    "source": "av"
+  },
+  {
+    "label": "macaroni",
+    "labelDE": "Makkaroni",
+    "pral": 6.89,
+    "source": "av"
+  },
+  {
+    "label": "Almond",
+    "labelDE": "Mandeln",
+    "pral": 0.76,
+    "source": "av"
+  },
+  {
+    "label": "mango",
+    "labelDE": "Mango",
+    "pral": -3.4,
+    "source": "av"
+  },
+  {
+    "label": "margarine",
+    "labelDE": "Margarine",
+    "pral": -0.15,
+    "source": "av"
+  },
+  {
+    "label": "jam",
+    "labelDE": "Marmelade",
+    "pral": -0.93,
+    "source": "av"
+  },
+  {
+    "label": "Matjeshering",
+    "labelDE": "Matjeshering",
+    "pral": 8,
+    "source": "av"
+  },
+  {
+    "label": "mussels",
+    "labelDE": "Miesmuscheln",
+    "pral": 15.3,
+    "source": "av"
+  },
+  {
+    "label": "milk chocolate",
+    "labelDE": "Milchschokolade",
+    "pral": -1.3,
+    "source": "av"
+  },
+  {
+    "label": "Sparkling water",
+    "labelDE": "Mineralwasser mit Kohlensäure",
+    "pral": -0.76,
+    "source": "av"
+  },
+  {
+    "label": "whey",
+    "labelDE": "Molke",
+    "pral": -1.88,
+    "source": "av"
+  },
+  {
+    "label": "Carrot juice",
+    "labelDE": "Möhrensaft",
+    "pral": -4.8,
+    "source": "av"
+  },
+  {
+    "label": "Natural yogurt from whole milk",
+    "labelDE": "Naturjoghurt aus Vollmilch",
+    "pral": 0.05,
+    "source": "av"
+  },
+  {
+    "label": "nut nougat cream",
+    "labelDE": "Nussnugatcreme",
+    "pral": -1.94,
+    "source": "av"
+  },
+  {
+    "label": "olive oil",
+    "labelDE": "Olivenöl",
+    "pral": 0.02,
+    "source": "av"
+  },
+  {
+    "label": "Orang",
+    "labelDE": "Orangen",
+    "pral": -3.17,
+    "source": "av"
+  },
+  {
+    "label": "Orange juice, unsweetened",
+    "labelDE": "Orangensaft, ungesüsst",
+    "pral": -2.77,
+    "source": "av"
+  },
+  {
+    "label": "Paprika pods (red)",
+    "labelDE": "Paprikaschoten (rot)",
+    "pral": -7.76,
+    "source": "av"
+  },
+  {
+    "label": "Parmesan",
+    "labelDE": "Parmesan",
+    "pral": 24.73,
+    "source": "av"
+  },
+  {
+    "label": "Parsley",
+    "labelDE": "Petersilie",
+    "pral": -15.5,
+    "source": "av"
+  },
+  {
+    "label": "Peach",
+    "labelDE": "Pfirsiche",
+    "pral": -2.77,
+    "source": "av"
+  },
+  {
+    "label": "Mushrooms (chanterelle)",
+    "labelDE": "Pilze (Pfifferling)",
+    "pral": -7.44,
+    "source": "av"
+  },
+  {
+    "label": "Pistachios",
+    "labelDE": "Pistazien",
+    "pral": 0.26,
+    "source": "av"
+  },
+  {
+    "label": "pumpernickel",
+    "labelDE": "Pumpernickel",
+    "pral": 3.48,
+    "source": "av"
+  },
+  {
+    "label": "Quark",
+    "labelDE": "Quark",
+    "pral": 8.86,
+    "source": "av"
+  },
+  {
+    "label": "radish",
+    "labelDE": "Radieschen",
+    "pral": -4.5,
+    "source": "av"
+  },
+  {
+    "label": "Rice, peeled",
+    "labelDE": "Reis, geschält",
+    "pral": 3.82,
+    "source": "av"
+  },
+  {
+    "label": "Rice, peeled, cooked",
+    "labelDE": "Reis, geschält, gekocht",
+    "pral": 3.07,
+    "source": "av"
+  },
+  {
+    "label": "Rice, unpettered",
+    "labelDE": "Reis, ungeschält",
+    "pral": 12.5,
+    "source": "av"
+  },
+  {
+    "label": "Beef, lean",
+    "labelDE": "Rindfleisch, mager",
+    "pral": 10.44,
+    "source": "av"
+  },
+  {
+    "label": "Rye bread",
+    "labelDE": "Roggenbrot",
+    "pral": 3.48,
+    "source": "av"
+  },
+  {
+    "label": "Rye crispbread",
+    "labelDE": "Roggenknäckebrot",
+    "pral": 3.3,
+    "source": "av"
+  },
+  {
+    "label": "Rye flour (type 650)",
+    "labelDE": "Roggenmehl (Typ 650)",
+    "pral": 3.52,
+    "source": "av"
+  },
+  {
+    "label": "Rye",
+    "labelDE": "Roggenmischbrot",
+    "pral": 2.49,
+    "source": "av"
+  },
+  {
+    "label": "Full rye flour",
+    "labelDE": "Roggenvollkornmehl",
+    "pral": 5.9,
+    "source": "av"
+  },
+  {
+    "label": "Brown cane sugar",
+    "labelDE": "Rohrzucker braun",
+    "pral": -2.08,
+    "source": "av"
+  },
+  {
+    "label": "Brussels sprouts",
+    "labelDE": "Rosenkohl",
+    "pral": -4.59,
+    "source": "av"
+  },
+  {
+    "label": "Raisins",
+    "labelDE": "Rosinen",
+    "pral": -11.94,
+    "source": "av"
+  },
+  {
+    "label": "Reddish",
+    "labelDE": "Rotbarsch",
+    "pral": 9.08,
+    "source": "av"
+  },
+  {
+    "label": "Red turnover juice",
+    "labelDE": "Rote-Rübe-Saft",
+    "pral": -3.9,
+    "source": "av"
+  },
+  {
+    "label": "red wine",
+    "labelDE": "Rotwein",
+    "pral": -1.82,
+    "source": "av"
+  },
+  {
+    "label": "Rocket",
+    "labelDE": "Ruccola",
+    "pral": -7.5,
+    "source": "av"
+  },
+  {
+    "label": "Rump steak, lean and fat",
+    "labelDE": "Rumpsteak, mager und fett",
+    "pral": 8.8,
+    "source": "av"
+  },
+  {
+    "label": "Cream, fresh, acidic",
+    "labelDE": "Sahne, frisch, sauer",
+    "pral": 0.17,
+    "source": "av"
+  },
+  {
+    "label": "salami",
+    "labelDE": "Salami",
+    "pral": 8.77,
+    "source": "av"
+  },
+  {
+    "label": "Biscuit cake",
+    "labelDE": "Sandkuchen",
+    "pral": 3.43,
+    "source": "av"
+  },
+  {
+    "label": "Sardines in oil",
+    "labelDE": "Sardinen in Öl",
+    "pral": 13.5,
+    "source": "av"
+  },
+  {
+    "label": "sauerkraut",
+    "labelDE": "Sauerkraut",
+    "pral": -4.71,
+    "source": "av"
+  },
+  {
+    "label": "Skillfish",
+    "labelDE": "Schellfisch",
+    "pral": 7.94,
+    "source": "av"
+  },
+  {
+    "label": "Melting cheese, nature",
+    "labelDE": "Schmelzkäse, natur",
+    "pral": 23.48,
+    "source": "av"
+  },
+  {
+    "label": "chives",
+    "labelDE": "Schnittlauch",
+    "pral": -6.51,
+    "source": "av"
+  },
+  {
+    "label": "Black currants",
+    "labelDE": "Schwarze Johannisbeeren",
+    "pral": -6.14,
+    "source": "av"
+  },
+  {
+    "label": "Pork, lean",
+    "labelDE": "Schweinefleisch, mager",
+    "pral": 8.69,
+    "source": "av"
+  },
+  {
+    "label": "sole",
+    "labelDE": "Seezunge",
+    "pral": 8.47,
+    "source": "av"
+  },
+  {
+    "label": "celery",
+    "labelDE": "Sellerie",
+    "pral": -5.99,
+    "source": "av"
+  },
+  {
+    "label": "Shrimp",
+    "labelDE": "Shrimps",
+    "pral": 7.6,
+    "source": "av"
+  },
+  {
+    "label": "Soybeans",
+    "labelDE": "Sojabohnen",
+    "pral": -9.07,
+    "source": "av"
+  },
+  {
+    "label": "soy milk",
+    "labelDE": "Sojamilch",
+    "pral": -0.63,
+    "source": "av"
+  },
+  {
+    "label": "Sunflower oil",
+    "labelDE": "Sonnenblumenöl",
+    "pral": -0.02,
+    "source": "av"
+  },
+  {
+    "label": "asparagus",
+    "labelDE": "Spargel",
+    "pral": -2.35,
+    "source": "av"
+  },
+  {
+    "label": "spinach",
+    "labelDE": "Spinat",
+    "pral": -12.08,
+    "source": "av"
+  },
+  {
+    "label": "spaetzle",
+    "labelDE": "Spätzle",
+    "pral": 6.89,
+    "source": "av"
+  },
+  {
+    "label": "Table water",
+    "labelDE": "Tafelwasser",
+    "pral": -0.72,
+    "source": "av"
+  },
+  {
+    "label": "Tea, Indian, infusion",
+    "labelDE": "Tee, Indisch, Aufguss",
+    "pral": -0.3,
+    "source": "av"
+  },
+  {
+    "label": "Tofu (soybean, steamed)",
+    "labelDE": "Tofu (Sojabohne, gedämpft)",
+    "pral": -0.33,
+    "source": "av"
+  },
+  {
+    "label": "tomatoes",
+    "labelDE": "Tomaten",
+    "pral": -4.17,
+    "source": "av"
+  },
+  {
+    "label": "Tomato juice",
+    "labelDE": "Tomatensaft",
+    "pral": -2.8,
+    "source": "av"
+  },
+  {
+    "label": "Grape juice",
+    "labelDE": "Traubensaft",
+    "pral": -2.8,
+    "source": "av"
+  },
+  {
+    "label": "Turkey",
+    "labelDE": "Truthahnfleisch",
+    "pral": 11.13,
+    "source": "av"
+  },
+  {
+    "label": "Whole grain bread",
+    "labelDE": "Vollkornbrot",
+    "pral": 5.3,
+    "source": "av"
+  },
+  {
+    "label": "Whole grain spaghetti",
+    "labelDE": "Vollkornspaghetti",
+    "pral": 8.5,
+    "source": "av"
+  },
+  {
+    "label": "Full milk, pasteurized and sterilized",
+    "labelDE": "Vollmilch, pasteurisiert und sterilisiert",
+    "pral": 0.04,
+    "source": "av"
+  },
+  {
+    "label": "Walnuts",
+    "labelDE": "Walnüsse",
+    "pral": 6.17,
+    "source": "av"
+  },
+  {
+    "label": "Watermelon",
+    "labelDE": "Wassermelonen",
+    "pral": -2.84,
+    "source": "av"
+  },
+  {
+    "label": "Soft cheese, full fat level",
+    "labelDE": "Weichkäse, Vollfettstufe",
+    "pral": 4.3,
+    "source": "av"
+  },
+  {
+    "label": "Wine vinegar, balsamic vinegar",
+    "labelDE": "Weinessig, Balsamico-Essig",
+    "pral": -1.26,
+    "source": "av"
+  },
+  {
+    "label": "grapes",
+    "labelDE": "Weintrauben",
+    "pral": -3.38,
+    "source": "av"
+  },
+  {
+    "label": "White bread",
+    "labelDE": "Weissbrot",
+    "pral": 3.75,
+    "source": "av"
+  },
+  {
+    "label": "White wine, dry",
+    "labelDE": "Weisswein, trocken",
+    "pral": -1.73,
+    "source": "av"
+  },
+  {
+    "label": "Wheat bread (whole grain)",
+    "labelDE": "Weizenbrot  (Vollkorn)",
+    "pral": 5.25,
+    "source": "av"
+  },
+  {
+    "label": "Wheat flour (type 450)",
+    "labelDE": "Weizenmehl  (Typ 450)",
+    "pral": 4.98,
+    "source": "av"
+  },
+  {
+    "label": "Wheat",
+    "labelDE": "Weizenmischbrot",
+    "pral": 3.75,
+    "source": "av"
+  },
+  {
+    "label": "Full grain flour",
+    "labelDE": "Weizenvollkornmehl",
+    "pral": 8.2,
+    "source": "av"
+  },
+  {
+    "label": "Wiener sausages",
+    "labelDE": "Wienerwürstchen",
+    "pral": 6.03,
+    "source": "av"
+  },
+  {
+    "label": "Wild rabbit",
+    "labelDE": "Wildkaninchen",
+    "pral": 10.15,
+    "source": "av"
+  },
+  {
+    "label": "Pikeperch",
+    "labelDE": "Zander",
+    "pral": 7.33,
+    "source": "av"
+  },
+  {
+    "label": "Lemons",
+    "labelDE": "Zitronen",
+    "pral": -3.05,
+    "source": "av"
+  },
+  {
+    "label": "Lemon juice",
+    "labelDE": "Zitronensaft",
+    "pral": -2.2,
+    "source": "av"
+  },
+  {
+    "label": "zucchini",
+    "labelDE": "Zucchini",
+    "pral": -3.88,
+    "source": "av"
+  },
+  {
+    "label": "Sugar, white",
+    "labelDE": "Zucker, weiss",
+    "pral": -0.06,
+    "source": "av"
+  },
+  {
+    "label": "zwieback",
+    "labelDE": "Zwieback",
+    "pral": 4.69,
+    "source": "av"
+  },
+  {
+    "label": "Onion",
+    "labelDE": "Zwiebeln",
+    "pral": -1.74,
+    "source": "av"
+  },
+  {
+    "label": "Apples",
+    "labelDE": "Äpfel",
+    "pral": -2.36,
+    "source": "av"
+  }
+]

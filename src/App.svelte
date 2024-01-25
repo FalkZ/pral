@@ -1,10 +1,19 @@
 <script lang="ts">
   import ListItem from "./ListItem.svelte";
-  import pralLookup from "./pral-lookup.json";
+  import avData from "../gen/out/av.json";
+  import usdaData from "../gen/out/usda.json";
+
   import Fuse from "fuse.js";
   import { IconSearch } from "@tabler/icons-svelte";
 
-  const fuse = new Fuse(pralLookup, { keys: ["label"], threshold: 0.4 });
+  const pralLookup = [...avData, ...usdaData].sort((a, b) =>
+    a.label.localeCompare(b.label)
+  );
+
+  const fuse = new Fuse(pralLookup, {
+    keys: ["label"],
+    threshold: 0.4,
+  });
 
   let search = "";
 
@@ -19,7 +28,7 @@
   <h1
     class="font-bold tracking-tight text-5xl text-center pt-2 pb-6 text-slate-200"
   >
-    PRAL-Werte
+    PRAL Values
   </h1>
   <div class="sticky top-0 w-full z-10 block">
     <label
@@ -29,7 +38,7 @@
       <input
         class="w-full text-lg tracking-wide px-4 py-4 bg-transparent outline-none"
         bind:value={search}
-        placeholder="Suche"
+        placeholder="Search"
       />
     </label>
   </div>

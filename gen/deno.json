@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "gen": "deno run --allow-all generate.ts",
+    "av": "deno run --allow-all readAV.ts"
+  }
+}
